@@ -3,11 +3,502 @@
 
   <Content>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="1" Title="">
-        <SceneArcBeats/>
+      <SceneProperties Length="4/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SAOIRSE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
       </SceneProperties>
-      <Text>ExT. </Text>
+      <Text>ExT. mid-level ocean - dusk</Text>
     </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Two mermaids swim side by side through a turbulent sea. They cling close to the rock formations that pierce the surface. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>THE PLAYER controls </Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text>, a Summer Maid with ruby scales. THE PLAYER swims next to </Text>
+      <Text AdornmentStyle="-1">ALORA</Text>
+      <Text>, a Siren with a sleek navy shark-like tail and a large, hooked, dorsal fin. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> powers towards the surface, pokes her head above the water. She submerges her head back under. She smiles, gesturing </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> upwards.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(jokingly)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>I’m not built for this, you’ve gotta relax.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">Alora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not now! This is the best part!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> sighs, THE PLAYER is prompted to ACCELERATE. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> catches up with </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>. Both pop their heads out of the water.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 3/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SAOIRSE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. STORM’S RESPITE SURFACE - DUSK</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Waves bob along the choppy surface, the swirling clouds rush along the eerie gray sky.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> nods excitedly. She gestures to a ship on the horizon.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">Alora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They call that one </Text>
+      <Text Style="Italic">The Whimpering Whale.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ew, that’s a terrible name.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">Alora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(laughing) I know! Here just a little further and we can see some action.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> leaps out of the water like a dolphin towards the ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>PLAYER leaps as well.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Camera stays watching the surface.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(mid jump)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>I thought...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SPLASH!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(mid jump)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>This ship..</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SPLASH!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(mid jump)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>I’ve seen it..</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SPLASH!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(mid jump)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Before?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SPLASH!
+</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The mermaids stop just shy of the boat. They sink down so just their heads bob above the water. The ship is in a panic. Sailors run up to the top deck. They fling bucket-loads of water over the side. They run back down to the lower deck. </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> speaks in a near whisper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh I’m sure you have, its been sailing through Storms for months now, of its own volition, mind you! We got sick and tired of it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh wow, that’s kinda gutsy of them.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 3/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CAPTAIN HARDTACK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="FIRST MATE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LARK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SAOIRSE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. The Whimpering Whale Captain’s quarters</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>CAPTAIN HARDTACK, a large grizzly man in a coat with ten too many medals on it, sits cowering on the floor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Captain HARDTACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My ship.. My ship.. First of its class to... weather the storm </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He laughs, his eyes wide. The FIRST MATE barrels through the door, dragging </Text>
+      <Text AdornmentStyle="-1">LARKINEON</Text>
+      <Text>, a young sailor with dark hair slicked back with wax, behind him by her jacket collar.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FIrst mate</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Captain! I found the little rat before she skittered off the ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Half the crew is overboard sir! We need you out on the helm! Both of you!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Captain stands - he leers down at Lark</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CapTAIN HARDTACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Tell me </Text>
+      <Text AdornmentStyle="-1">Larkineon</Text>
+      <Text>, was it you who gave the order to redirect course? Do you believe you are better suited to chart MY voyages?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A sailor yells from outside. Then, a meaty SPLASH. A loud chorus of person-being-eaten-alive noises ensue. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The PLAYER is given a </Text>
+      <Text Style="Underline">choice</Text>
+      <Text>- </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>
+</Text>      <Text Style="Bold">Knee Hardtack in the groin </Text>
+      <Text>OR </Text>
+      <Text Style="Bold">Escape from the First Mate</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Player must complete a short puzzle for either option- Player is presented with three empty slots and a collection of six picture cards. Correct cards must be chosen and placed in appropriate slot.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Bold">Knee Hardtack: </Text>
+      <Text>Player correctly submits:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Card 1: Plant feet on ground. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Card 2: Wind up kick. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Card 3: Follow through with kick</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Bold">Escape: </Text>
+      <Text>Player correctly submits:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Card 1: Pull arms out of jacket sleeves</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Card 2: Duck</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Card 3: Run</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">FAILURE</Text>
+      <Text>:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CaPTAIN HARDTACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(laughing)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>You want to go so badly? Fine. Throw her to the ‘maids.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The first mate grabs Lark by the arms. He drags her port side. At the edge, a tiny siren is gnawing at the wood railing. She looks up, smiles sinisterly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FirST MATE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Little RAT!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark is launched into the sea below.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO BLACK:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">SUCCESS</Text>
+      <Text>:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CAPTAIN HARDTACK (if kicked)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>SON OF A BITCH!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark scrambles out of the captain’s quarters. She looks franticly, left, right, left.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She locks eyes with her, </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> returns her gaze- terrified. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark relaxes. WHAM! </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> leaps up onto the ship. Her shark tail thrashes and thumps on the wooden deck. Lark trips backwards. She winces, </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> crawls forward.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SaOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>.. ‘</Text>
+      <Text AdornmentStyle="-1">LOR</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora’s</Text>
+      <Text> head snaps back to the water.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>HUH?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s Lark! You remember??</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> accelerates towards Lark. She picks up Lark by her shirt collar like a trophy fish.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh! You’re like an adult now!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(Choking)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hi... </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just Get her out of there!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> flips Lark over her shoulder firefighter style. She clambers back to the railing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wait.. I can’t..</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SPLASH! </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> dives off the railing with Lark in tow.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO BLACK:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LARK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SAOIRSE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. rocky island - night</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark’s eyes flutter open. The sea is peaceful. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> hoists Lark upright, tightening her arms around her stomach.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+      <Text> </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(If Success: Now that’s my bad, but) how are you gonna be living on the water if you can’t breath the water. Explain that to me</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I mean the boats are pretty fast, and I think you have to be dry to be on the boat...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1">Saoirs</Text>
+      <Text>..</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>THUNK! </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> quickly squeezes Lark’s stomach in a Heimlich maneuver.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The PLAYER is given control </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Player must orient </Text>
+      <Text AdornmentStyle="-1">Saoirse’s</Text>
+      <Text> arms in the correct position for Heimlich.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">SUCCESS 1:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Water launches out of Lark’s mouth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I didn’t think!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">SUCCESS 2:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Less water launches out of Lark’s mouth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’d see you...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">SUCCESS 3:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A spew of droplets launch out of Lark’s mouth. She coughs</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Again!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">ANY FAILURE</Text>
+      <Text>:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark cartoonishly yelps in pain.</Text>
+    </Paragraph>
+    <Paragraph Type="Action"/>
+    <Paragraph Type="Action"/>
   </Content>
 
   <Watermarking Opacity="70" Position="Diagonal Descending">
@@ -51,9 +542,9 @@
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="994" Left="730" Mode="Normal" Top="85" Width="870"/>
+  <WindowState Height="606" Left="-22" Mode="Normal" Top="134" Width="736"/>
 
-  <TextState Scaling="100" Selection="5,5" ShowInvisibles="No"/>
+  <TextState Scaling="75" Selection="1712,1712" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -249,7 +740,14 @@
   </TitlePage>
 
   <SmartType>
-    <Characters/>
+    <Characters>
+      <Character>Saoirse</Character>
+      <Character>Alora</Character>
+      <Character>CAPTAIN HARDTACK</Character>
+      <Character>FIrst mate</Character>
+      <Character>Lark</Character>
+      <Character>Cut to Black:</Character>
+    </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
       <Extension>(O.S.)</Extension>
@@ -257,13 +755,20 @@
       <Extension>(CONT'D)</Extension>
       <Extension>(SUBTITLE)</Extension>
       <Extension>(TEXT)</Extension>
+      <Extension>(if kicked)</Extension>
+      <Extension>(If Success)</Extension>
     </Extensions>
     <SceneIntros Separator=". ">
       <SceneIntro>INT</SceneIntro>
       <SceneIntro>EXT</SceneIntro>
       <SceneIntro>I/E</SceneIntro>
     </SceneIntros>
-    <Locations/>
+    <Locations>
+      <Location>MID-LEVEL OCEAN</Location>
+      <Location>STORM'S RESPITE SURFACE</Location>
+      <Location>THE WHIMPERING WHALE CAPTAIN'S QUARTERS</Location>
+      <Location>ROCKY ISLAND</Location>
+    </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
       <TimeOfDay>NIGHT</TimeOfDay>
@@ -593,6 +1098,12 @@
       <Element Type="Character"/>
       <Element Type="Dialogue"/>
     </Narrator>
+    <Member Actor="Man 1" Character="Saoirse"/>
+    <Member Actor="Man 1" Character="Alora"/>
+    <Member Actor="Man 1" Character="CAPTAIN HARDTACK"/>
+    <Member Actor="Man 1" Character="FIrst mate"/>
+    <Member Actor="Man 1" Character="Lark"/>
+    <Member Actor="" Character="Cut to Black:"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -603,7 +1114,13 @@
     <CustomOrder/>
   </CastList>
 
-  <CharacterHighlighting/>
+  <CharacterHighlighting>
+    <Character Color="#FFFFFFFFFFFF" Name="ALORA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="CAPTAIN HARDTACK" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="FIRST MATE" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="LARK" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="SAOIRSE" Visible="No"/>
+  </CharacterHighlighting>
 
   <SceneNavigatorPreferences>
     <TableColumnSettings IsSortAscending="Yes" SortColumn="Order" TableIdentifier="NavDynScenes">
