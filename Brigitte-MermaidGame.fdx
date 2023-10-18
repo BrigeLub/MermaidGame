@@ -27,24 +27,27 @@
       <Text> that pierce to the surface. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>THE PLAYER controls SAOIRSE, a Summer Maid with ruby scales. THE PLAYER swims next to </Text>
+      <Text>THE PLAYER controls </Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text>, a Summer Maid with ruby scales. THE PLAYER swims next to </Text>
       <Text AdornmentStyle="-1">ALORA</Text>
       <Text>, a Siren with a sleek navy shark-like tail and a large, hooked, dorsal fin. </Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Alora</Text>
-      <Text> powers towards the surface, pokes her head above the water. She submerges her head back under. She smiles, gesturing Saoirse upwards.</Text>
+      <Text> powers towards the surface, pokes her head above the water. She submerges her head back under. She smiles, gesturing </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> upwards.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Saoirse </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> </Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>(jokingly)</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>I’m not built for this, you’ve </Text>
-      <Text AdornmentStyle="-1">gotta</Text>
-      <Text> relax.</Text>
+      <Text>I’m not built for this, you’ve gotta relax.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">Alora</Text>
@@ -53,9 +56,12 @@
       <Text>Not now! This is where the action is!</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Saoirse sighs, THE PLAYER is prompted to </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> sighs, THE PLAYER is prompted to </Text>
       <Text Style="Bold">accelerate</Text>
-      <Text>. Saoirse catches up with </Text>
+      <Text>. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> catches up with </Text>
       <Text AdornmentStyle="-1">Alora</Text>
       <Text>. Both pop their heads out of the water.</Text>
     </Paragraph>
@@ -87,7 +93,7 @@
       <Text Style="Italic">The Whimpering Whale.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Ew, that’s a terrible name.</Text>
@@ -109,7 +115,7 @@
       <Text>Camera stays watching the surface.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>(mid jump)</Text>
@@ -1176,9 +1182,7 @@ THE PLAYER must</Text>
       <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Yeah! </Text>
-      <Text AdornmentStyle="-1">Theres</Text>
-      <Text> a little patch of land out East, but its a little far.</Text>
+      <Text>Yeah! Theres a little patch of land out East, but its a little far.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">AlORA</Text>
@@ -1187,21 +1191,22 @@ THE PLAYER must</Text>
       <Text>Yeah no way I’m carrying you out all that way.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Hey no problem, </Text>
-      <Text AdornmentStyle="-1">theres</Text>
-      <Text> plenty here.</Text>
+      <Text>Hey no problem, theres plenty here.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Saoirse glides along the shallows.</Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> glides along the shallows.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>THE PLAYER is in control.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>As Saoirse the Player must </Text>
+      <Text>As </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> the Player must </Text>
       <Text Style="Bold">search for and assemble debris into a makeshift raft.</Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -1213,12 +1218,14 @@ THE PLAYER must</Text>
     <Paragraph Type="Action">
       <Text>THE PLAYER picks up a length of rope. </Text>
       <Text AdornmentStyle="-1">Alora</Text>
-      <Text> catches up and takes it from Saoirse. </Text>
+      <Text> catches up and takes it from </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>. </Text>
       <Text AdornmentStyle="-1">Alora</Text>
       <Text> pulls at the rope. She smiles, seeing that it’s strong.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Of course! I knew we’d crash into each other again sometime!</Text>
@@ -1235,7 +1242,7 @@ THE PLAYER must</Text>
       <Text>Oh yeah, that’ll work great, thank you.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>You need a buoyancy thing huh?</Text>
@@ -1250,28 +1257,28 @@ THE PLAYER must</Text>
       <Text>THE PLAYER clicks on a barrel.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Just </Text>
-      <Text AdornmentStyle="-1">gotta</Text>
-      <Text> fix this a bit...</Text>
+      <Text>Just gotta fix this a bit...</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>THE PLAYER is prompted to </Text>
       <Text Style="Bold">split the barrel in half.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Saoirse must align her karate-chop directly in the middle of the barrel’s top.</Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> must align her karate-chop directly in the middle of the barrel’s top.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text Style="Underline">FAILURE:</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Saoirse bruises her hand. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> bruises her hand. </Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>OW!</Text>
@@ -1289,19 +1296,17 @@ THE PLAYER must</Text>
       <Text>LARK (O.S.)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Perfect! Just </Text>
-      <Text AdornmentStyle="-1">gotta</Text>
-      <Text> put it all together.</Text>
+      <Text>Perfect! Just gotta put it all together.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A blueprint-like sheet of paper covers the screen. THE PLAYER </Text>
-      <Text Style="Bold">must assemble the raft by dragging each component’s icon into place.</Text>
+      <Text>A blueprint-like sheet of paper with 3 slots covers the screen. THE PLAYER </Text>
+      <Text Style="Bold">must assemble the raft by dragging each component’s card into place.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text Style="Underline">1: THE PLAYER puts the barrels at the bottom</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">ALORA</Text>
+      <Text>ALORA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Oh yeah, that air’s goin nowhere.</Text>
@@ -1310,7 +1315,7 @@ THE PLAYER must</Text>
       <Text Style="Underline">2: THE PLAYER puts the door on top</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Seems sturdy enough.</Text>
@@ -1856,10 +1861,14 @@ THE PLAYER must</Text>
       <Text>LaRK</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>‘Lor, keep us moving, don’t stop.</Text>
+      <Text>‘</Text>
+      <Text AdornmentStyle="-1">Lor</Text>
+      <Text>, keep us moving, don’t stop.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Lark runs over to man a cannon. Saoirse does the same.</Text>
+      <Text>Lark runs over to man a cannon. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> does the same.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">ALORA</Text>
@@ -1905,22 +1914,16 @@ THE PLAYER must</Text>
       <Text>(repeat top canon-avoid section if below is not completed successfully)</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Player as Saoirse </Text>
+      <Text>The Player as </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> </Text>
       <Text Style="Bold">aims another canon. Within the canon </Text>
       <Text AdornmentStyle="-1" Style="Bold">FOV</Text>
       <Text Style="Bold">, The Whale’s top deck anchor wheel pulses.</Text>
       <Text> </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Player fires- the canon ball slams into the anchor wheel. The anchor falls off. CLICK </Text>
-      <Text AdornmentStyle="-1">CLICK</Text>
-      <Text> </Text>
-      <Text AdornmentStyle="-1">CLICK</Text>
-      <Text>, CRASH </Text>
-      <Text AdornmentStyle="-1">CRASH</Text>
-      <Text> </Text>
-      <Text AdornmentStyle="-1">CRASH</Text>
-      <Text>! The anchor barrels through each deck with its massive weight. SPLASH! The anchor hits the ocean. </Text>
+      <Text>The Player fires- the canon ball slams into the anchor wheel. The anchor falls off. CLICK CLICK CLICK, CRASH CRASH CRASH! The anchor barrels through each deck with its massive weight. SPLASH! The anchor hits the ocean. </Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The Whale creaks. It slams to a halt. Each deck slides and collides into each other- the entire ship in disrepair.</Text>
@@ -1982,9 +1985,9 @@ THE PLAYER must</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="715" Left="237" Mode="Maximized" Top="45" Width="929"/>
+  <WindowState Height="683" Left="371" Mode="Normal" Top="252" Width="929"/>
 
-  <TextState Scaling="75" Selection="22820,22820" ShowInvisibles="No"/>
+  <TextState Scaling="75" Selection="14932,14932" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -2093,7 +2096,7 @@ THE PLAYER must</Text>
 
   <ElementSettings Type="Outline 4">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.62" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
     <Behavior PaginateAs="General" ReturnKey="Outline Body" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
     <Outline CanHide="Yes" Level="1"/>
   </ElementSettings>
@@ -2275,7 +2278,7 @@ THE PLAYER must</Text>
     <Revision Color="#000000000000" FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1133">
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="0">
     <ScriptPanel DisplayMode="Page">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
     </ScriptPanel>
@@ -2671,25 +2674,25 @@ THE PLAYER must</Text>
     <ChartOptions Identifier="InclusivityAnalysis">
       <FilterSets>
         <FilterSet Default="Yes">
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
-          </Filter>
           <Filter Index="1" Name="Trait" Value="">
             <Match></Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="Role">
             <Match></Match>
           </Filter>
-        </FilterSet>
-        <FilterSet>
           <Filter Index="0" Name="Count" Value="MIN">
             <Match>1</Match>
           </Filter>
+        </FilterSet>
+        <FilterSet>
           <Filter Index="1" Name="Trait" Value="">
             <Match></Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="">
             <Match></Match>
+          </Filter>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
         </FilterSet>
       </FilterSets>
