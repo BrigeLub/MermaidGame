@@ -765,7 +765,9 @@ THE PLAYER must</Text>
       <Text>. She takes a deep breath and holds her hand to her chest.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She turns, and pulls Saoirse into a hug.</Text>
+      <Text>She turns, and pulls </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> into a hug.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">SAOIRSE</Text>
@@ -961,7 +963,7 @@ THE PLAYER must</Text>
       <Text>Of course I wanted my own ship.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>THE PLAYER is allowed to free draw on the waves. (Ideally the player begins to draw a ship)</Text>
+      <Text>A dotted line silhouette of a ship appears on the water. THE PLAYER is allowed to free draw on the waves. (Ideally the player begins to draw the ship)</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>As THE PLAYER draws- Lark continues.</Text>
@@ -1306,7 +1308,7 @@ THE PLAYER must</Text>
       <Text Style="Underline">1: THE PLAYER puts the barrels at the bottom</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>ALORA</Text>
+      <Text AdornmentStyle="-1">ALORA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Oh yeah, that air’s goin nowhere.</Text>
@@ -1345,10 +1347,12 @@ THE PLAYER must</Text>
       <Text>ALRIGHT!</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>‘Lor if you keep the back level I can tow from up here.</Text>
+      <Text>‘</Text>
+      <Text AdornmentStyle="-1">Lor</Text>
+      <Text> if you keep the back level I can tow from up here.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">ALORA</Text>
@@ -1357,7 +1361,7 @@ THE PLAYER must</Text>
       <Text>Sure thing, boss!</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Strap in, this might take a while.</Text>
@@ -1397,10 +1401,13 @@ THE PLAYER must</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text Style="Italic">The Gore </Text>
-      <Text>sails gently along The Summer Sea. In the distances sits The Pire, the long dormant volcano.</Text>
+      <Text>sails gently along The Summer Sea. In the distances sits The </Text>
+      <Text AdornmentStyle="-1">Pire</Text>
+      <Text>, the long dormant volcano.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Saoirse sits in a carved out pool in the deck filled with sea water. Paper lines the rim of the pool, each covered in sketches and drawings. She sits staring out at the ocean.</Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> sits in a carved out pool in the deck filled with sea water. Paper lines the rim of the pool, each covered in sketches and drawings. She sits staring out at the ocean.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Alora</Text>
@@ -1441,29 +1448,32 @@ THE PLAYER must</Text>
       <Text>Shit.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>I’m on it!</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Saoirse leaps from her pool and grabs the affected pulley.</Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> leaps from her pool and grabs the affected pulley.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text> A mini game appears where The Player </Text>
       <Text Style="Bold">must move the pulley back to its axel with lots of resistance.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Saoirse leaps back to her pool.</Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> leaps back to her pool.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>We need to buy you glue or something- poor girl.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Saoirse pats the ship’s deck.</Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> pats the ship’s deck.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>(END of Failure)</Text>
@@ -1477,7 +1487,7 @@ THE PLAYER must</Text>
       <Text Style="Underline">EXAMPLE 1:</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>We have winds coming in at our front!</Text>
@@ -1487,14 +1497,16 @@ THE PLAYER must</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The Player</Text>
-      <Text Style="Bold"> clicks on the sail pulleys to raise sails (Minigame)</Text>
+      <Text Style="Bold"> clicks on the sail pulleys to raise sails (</Text>
+      <Text AdornmentStyle="-1" Style="Bold">Minigame</Text>
+      <Text Style="Bold">)</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text Style="Underline">EXAMPLE 2:</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Wind is changing, we should catch it!</Text>
@@ -1504,7 +1516,9 @@ THE PLAYER must</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The Player </Text>
-      <Text Style="Bold">clicks on the mast pulleys to rotate the sails. (Minigame)</Text>
+      <Text Style="Bold">clicks on the mast pulleys to rotate the sails. (</Text>
+      <Text AdornmentStyle="-1" Style="Bold">Minigame</Text>
+      <Text Style="Bold">)</Text>
     </Paragraph>
     <Paragraph Type="Action"/>
     <Paragraph Type="Action">
@@ -1584,7 +1598,9 @@ THE PLAYER must</Text>
       <Text>EXT. THE GORE</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Gore sails along the Summer Sea. The ship shakes. Lark stumbles then swings her arms, and regains her balance. Saoirse leaps from the pool and grabs the bow’s railing. </Text>
+      <Text>The Gore sails along the Summer Sea. The ship shakes. Lark stumbles then swings her arms, and regains her balance. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> leaps from the pool and grabs the bow’s railing. </Text>
       <Text AdornmentStyle="-1">Alora</Text>
       <Text> pushes herself close to the ship’s body. </Text>
     </Paragraph>
@@ -1601,7 +1617,7 @@ THE PLAYER must</Text>
       <Text>I’m not sure.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Well we didn’t hit anything, that’s for sure.</Text>
@@ -1627,15 +1643,7 @@ THE PLAYER must</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="-1">LARKINEON</Text>
-      <Text>! Did </Text>
-      <Text AdornmentStyle="-1">ye</Text>
-      <Text> believe </Text>
-      <Text AdornmentStyle="-1">ye</Text>
-      <Text> could truly part with The Whale? </Text>
-      <Text AdornmentStyle="-1">Ye</Text>
-      <Text> dare challenge me legacy? With </Text>
-      <Text AdornmentStyle="-1">ye</Text>
-      <Text> ‘maid ship!?</Text>
+      <Text>! Did ye believe ye could truly part with The Whale? Ye dare challenge me legacy? With ye ‘maid ship!?</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>There is a moment of silence. Lark is 50 feet below Hardtack’s top deck and cannot hear him.</Text>
@@ -1665,7 +1673,11 @@ THE PLAYER must</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Alora</Text>
-      <Text> skitters up the Gore. She makes her way to Saoirse’s pool and jumps in. Saoirse joins her. Lark crouches to the deck floor.</Text>
+      <Text> skitters up the Gore. She makes her way to </Text>
+      <Text AdornmentStyle="-1">Saoirse’s</Text>
+      <Text> pool and jumps in. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> joins her. Lark crouches to the deck floor.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>CRASH! The harpoons penetrate the sides of The Gore. Their mechanisms tick. They slowly pull The Gore out of the water and up to the middle deck.</Text>
@@ -1677,9 +1689,7 @@ THE PLAYER must</Text>
       <Text>CaPTAIN HARDTACK</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>There </Text>
-      <Text AdornmentStyle="-1">ye</Text>
-      <Text> are.</Text>
+      <Text>There ye are.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Lark blinks, wide-eyed. She stares at Hardtack.</Text>
@@ -1704,7 +1714,7 @@ THE PLAYER must</Text>
       <Text>Whale sailors throw six hooked ropes onto the Gore from the Whale’s mid-deck.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Lark? Lark what’s the call?</Text>
@@ -1737,7 +1747,7 @@ THE PLAYER must</Text>
       <Text>Tell you what Lark. You’ve come so far that I’m willing to give you another chance. I’ll take that little boat off of your hands. </Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SaOIRSE</Text>
+      <Text AdornmentStyle="-1">SaOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>(To </Text>
@@ -1759,7 +1769,7 @@ THE PLAYER must</Text>
       <Text Style="Bold">must weaken the six ropes, ripping them apart.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>(Whispering)</Text>
@@ -1817,7 +1827,9 @@ THE PLAYER must</Text>
       <Text>’ family and crew?</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Lark blinks. She turns her head towards Saoirse and </Text>
+      <Text>Lark blinks. She turns her head towards </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> and </Text>
       <Text AdornmentStyle="-1">Alora</Text>
       <Text> cutting ropes.</Text>
     </Paragraph>
@@ -1838,7 +1850,7 @@ THE PLAYER must</Text>
       <Text>The Captain hollers.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>HAHA! Lark that was awesome!</Text>
@@ -1938,9 +1950,438 @@ THE PLAYER must</Text>
     <Paragraph Type="Action">
       <Text>The captains yell grows quieter. The Gore sails onward, rocking with the unsettled tide.</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue"/>
     <Paragraph Type="Action"/>
+    <Paragraph Type="New Act">
+      <Text>A Breathless Encounter</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 3/8" Page="25" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LARK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SAOIRSE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Italic+AllCaps">EXT: The Gore - nigHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Italic">The Gore </Text>
+      <Text>approaches The </Text>
+      <Text AdornmentStyle="-1">Pire</Text>
+      <Text>, a long-dormant volcano. The water below is murky and red. The waves lap lightly at the ship’s hull.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is a good of a spot as any, park her here.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark nods. She raises her hand, she grips the open air. The lowered sails twitch.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sail pulley maze puzzle appears on screen. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player</Text>
+      <Text Style="Bold"> performs the sail pulley puzzle Counter clockwise, raising sails</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(See </Text>
+      <Text Style="Underline">Failing a Pulley Puzzle)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">Failure:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Watch! We still need to go home after this.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> fixes the pulley (</Text>
+      <Text Style="Bold">mini game</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(End Failure)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark raises her clenched hand above her head. The sails shoot up. The pulleys lock with a CLICK!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> clears her throat. She sings, holding the last note dramatically.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
     <Paragraph Type="Dialogue"/>
+    <Paragraph Type="Dialogue">
+      <Text>(Singing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text Style="Italic">PUMP THE </Text>
+      <Text AdornmentStyle="-1" Style="Italic">BRAKESS</Text>
+      <Text Style="Italic">!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Gore lurches, and stops. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> hurls an anchor over the side of the ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> peaks down over the ship wing she lays on. She pushes herself forward, hitting the water with a SPLASH!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She swims under the water. She powers back to the surface.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>OW SHIT my eyes!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> rubs her eyes. She blinks, readies herself, then leaps out of the water and onto the wing once again. She slips slightly from the added water. She steadies herself, still blinking.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SaOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What? You don’t have these lil puppies?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> blinks, revealing a set of translucent eyelids. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(Laughing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>EW! That’s nasty.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SaOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not as nasty as your infected eyeballs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark swallows hard, her face goes white.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shit I should’ve considered this. We need more time.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark begins pacing. The ship creaks in response.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> grabs Lark by her shoulder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey, it’s gonna be ok. We’ll get this right, plan it out together, huh?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark’s breathing slows.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah.. Yeah ok we’ll figure this out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She shakes out her hands. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>When the sun rises, we can see what supplies we have onboard.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ok! That works!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+      <Text> (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>WE’RE CALLING IT A NIGHT?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>YEAH!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>UGH!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>THUMP! </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> flops over on the ships wing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saorise</Text>
+      <Text> glances back to Lark. Lark stares at the deck, hands in her pockets.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re alright, she’s waited this long, she can wait a little more.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> squeezes Lark’s shoulder. Lark smiles faintly. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> sinks to the bottom of her pool.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark sighs. She looks up to the stars. She looks down at the crimson water. Lark walks slowly into her Captain’s Quarters and closes the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 3/8" Page="27" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DAPHNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LARK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SAOIRSE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT: Lark’s room</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Captain’s Quarters rocks slightly with the tide. Lark sleeps soundly on a patchwork cot by the back wall.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A thought bubble appears over Lark’s head.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Inside the bubble, cartoon waves flow back and forth.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is given a </Text>
+      <Text Style="Bold">pen tool</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A dotted silhouette of a fish appears on the screen. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Whatever the player draws, gains a swimming animation. The waves are populated by the player’s drawn fish. They jump out of the water like dolphins and splash back down into the drawn sea.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The image flickers like an old television.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark frowns.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The pen tool is slowly pulled away from the Player’s cursor. The pen begins to draw in red ink.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>It slowly paints a scribbled red background. The pen works its way from top to bottom, moving shakily. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>If the player tries to click anywhere on the screen, they can only draw a mark before the pen is ripped back to its purpose.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark sweats, she tosses to her the side.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The pen draws a scribbled red background. Only two almond shaped white spots remain.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The pen zips to the white spots. It draws a circle, another circle. It fills in two smaller circles. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The final image is a realistic pair of eyes in an otherwise filled sea of red.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark shudders.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The eyes blink. Their pupils focus. They quickly draw back in on themselves, angry.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Daphne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re here. I can feel you here.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The voice is deep, clear as a bell.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark gasps and shudders, still asleep.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DaPHNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ve waited. No one, and now you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>CREAK! The ship is yanked downwards.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark tosses again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DAPHNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You mock me. You sit on the precipice.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(asleep)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DaPHNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I will extend. My invitation.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The red lines squirm. They squirm faster and faster. They burst.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark shoots upright and awake, the thought bubble disappears.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Her eyes are wide. She looks side to side. She runs towards the camera, toward the cabin window. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The camera pans out, The Gore sinks slowly. The ship creaks and complains. It sinks deeper with a hiss. The crimson water around the ship bubbles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark launches to her feet. She runs out of her cabin barefoot towards </Text>
+      <Text AdornmentStyle="-1">Saoirse’s</Text>
+      <Text> pool.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> rises slowly. She blinks and looks around.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+      <Text> (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(Singing) </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ascend! Ascend from the depths from the squall!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(Singing louder) </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It would be really shitty if you </Text>
+      <Text AdornmentStyle="-1">SANKY</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark grips </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> by her shoulders. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We have to go, now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What? You’re sure?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+      <Text> (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whatever you have to do, do! Something wants us down there.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SaOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, oh ok!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The ship sinks lower. </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> climbs into frame, clutching the ship railing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action"/>
+    <Paragraph Type="Action">
+      <Text> </Text>
+    </Paragraph>
+    <Paragraph Type="Action"/>
     <Paragraph Type="Dialogue"/>
   </Content>
 
@@ -1985,9 +2426,9 @@ THE PLAYER must</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="683" Left="371" Mode="Normal" Top="252" Width="929"/>
+  <WindowState Height="683" Left="459" Mode="Normal" Top="228" Width="929"/>
 
-  <TextState Scaling="75" Selection="14932,14932" ShowInvisibles="No"/>
+  <TextState Scaling="75" Selection="27749,27749" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -2179,7 +2620,7 @@ THE PLAYER must</Text>
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phone Number</Text>
       </Paragraph>
     </Content>
-    <TextState Scaling="100" Selection="66,66" ShowInvisibles="No"/>
+    <TextState Scaling="100" Selection="109,109" ShowInvisibles="No"/>
   </TitlePage>
 
   <SmartType>
@@ -2191,6 +2632,7 @@ THE PLAYER must</Text>
       <Character>Lark</Character>
       <Character>Cut to Black:</Character>
       <Character>LARK and Alora</Character>
+      <Character>Daphne</Character>
     </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
@@ -2214,6 +2656,8 @@ THE PLAYER must</Text>
       <Location>ROCKY ISLAND</Location>
       <Location>THE WHIMPERING WHALE</Location>
       <Location>THE GORE</Location>
+      <Location>EXT: THE GORE</Location>
+      <Location>INT: LARK'S ROOM</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -2552,6 +2996,7 @@ THE PLAYER must</Text>
     <Member Actor="Man 1" Character="Lark"/>
     <Member Actor="Man 1" Character="Cut to Black:"/>
     <Member Actor="Man 1" Character="LARK and Alora"/>
+    <Member Actor="" Character="Daphne"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -2565,6 +3010,7 @@ THE PLAYER must</Text>
   <CharacterHighlighting>
     <Character Color="#FFFFFFFFFFFF" Name="ALORA" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="CAPTAIN HARDTACK" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="DAPHNE" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="FIRST MATE" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="LARK" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="LARK AND ALORA" Visible="No"/>
@@ -2606,7 +3052,7 @@ THE PLAYER must</Text>
 
   <DisplayBoards>
     <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
-    <DisplayBoard Height="75" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="800,0" Type="StoryMap" Width="6748" ZoomLevel="337.395"/>
+    <DisplayBoard Height="75" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="896,0" Type="StoryMap" Width="5554" ZoomLevel="277.707"/>
   </DisplayBoards>
 
   <Writers/>
@@ -2674,25 +3120,25 @@ THE PLAYER must</Text>
     <ChartOptions Identifier="InclusivityAnalysis">
       <FilterSets>
         <FilterSet Default="Yes">
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="Role">
             <Match></Match>
           </Filter>
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
         </FilterSet>
         <FilterSet>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="">
             <Match></Match>
           </Filter>
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
         </FilterSet>
       </FilterSets>
