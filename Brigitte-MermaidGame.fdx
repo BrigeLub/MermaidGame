@@ -2171,7 +2171,7 @@ THE PLAYER must</Text>
       <Text>Lark sighs. She looks up to the stars. She looks down at the crimson water. Lark walks slowly into her Captain’s Quarters and closes the door.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="27" Title="">
+      <SceneProperties Length="8 7/8" Page="27" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2370,19 +2370,557 @@ THE PLAYER must</Text>
       <Text AdornmentStyle="-1">SaOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Oh, oh ok!</Text>
+      <Text>Oh! Oh wow.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The ship sinks lower. </Text>
       <Text AdornmentStyle="-1">Alora</Text>
       <Text> climbs into frame, clutching the ship railing.</Text>
     </Paragraph>
-    <Paragraph Type="Action"/>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ok! It’s just liked we practiced. We’re gonna jump, and your skin’s gonna be like a filter ok?</Text>
+    </Paragraph>
     <Paragraph Type="Action">
-      <Text> </Text>
+      <Text>Lark looks around. Her breathing quickens. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah.. yeah ok.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>‘</Text>
+      <Text AdornmentStyle="-1">Lor</Text>
+      <Text>, stay with the ship. Any lower and we’ll take on water.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You got it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(Singing Operatically) </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Rise damn you!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> turns to Lark. She extends her hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ready?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark grabs her hand and shudders.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah. Let’s move.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark turns, she nods to </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> yanks Lark over the ship railing. SPLASH! The two dive into the red ocean below.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark gasps for air. She takes a deep gulp. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>THE PLAYER </Text>
+      <Text Style="Bold">must plan for the journey. </Text>
+      <Text>1 card slot appears above Lark’s head.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright, I’ll take in a little air for you as well ok? Just keep your eyes closed and I’ll get you down there.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> takes a deep breath of air- puffing out her cheeks. She flicks down her clear eyelids. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> holds Lark under her arms.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>3 animated cards appear below the slot. The first is a fish floundering and caught in a net. The second is a swirling whirlpool. The third is a steady stream of water trickling through a dam of stones.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">Selecting any of the first two cards results in failure:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark’s breathing quickens. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Easy, easy. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Bold">THE PLAYER must complete a box-breathing mini-game</Text>
+      <Text>. A square appears on screen with dots on each of its four corners. The dots slowly light up in a sequence running clockwise. Clicking on each dot in sequence “wins” the mini-game.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark’s breathing slows. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> nods. She descends into the water with Lark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The water is a translucent crimson.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Bold">The Player is in control of movement. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> swims downwards.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Bold">The Player is in control of Lark. </Text>
+      <Text>Lark must keep calm and take in oxygen through her skin.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The majority of the screen is the deep ocean. In the right hand corner, there is are 2 card slots and 6 cards.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player has 30 seconds to sort through the pile of cards and find the correct 2 cards:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>1. Lark’s own hand, the skin made up of tiny holes</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>2. Water passing through Lark’s hand. On the other side it becomes a cloud of air.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The other 4 cards are random objects: fish, crab, flag, waves.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">Failure</Text>
+      <Text>:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Bold">Box Breathing Mini Game:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark flails in the water. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> flips her around, pressing her mouth against hers, blowing in oxygen from the surface.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The box appears on screen. Upon completion, Lark relaxes and The Player can continue swimming.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(End Failure)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Bold">The Player is in control of movement.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Bold">The Player is in control of Lark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text> The Player has 30 seconds to sort through the pile of cards and find the correct 2 cards again.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">Failure</Text>
+      <Text>: </Text>
+      <Text Style="Bold">Box Breathing Mini Game- </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> shares her oxygen</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">Success</Text>
+      <Text>: The water darkens, Lark and </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> become gray silhouettes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Pointy rocks fade in on the sides of the screen. The Player has a narrower play window.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player moves deeper downwards. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Bold">The Player is in control of Lark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text> The Player has 30 seconds to sort through the pile of cards and find the correct 2 cards again.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">Failure</Text>
+      <Text>: </Text>
+      <Text Style="Bold">Box Breathing Mini Game- </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> shares her oxygen</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">Success</Text>
+      <Text>: The water darkens more, Lark and </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> become black silhouettes in a deep red backdrop.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They move further downward. The pointy rocks move inward. The play-space narrows further.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Bold">The Player is in control of Lark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text> The Player has 30 seconds to sort through the pile of cards and find the correct 2 cards again.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">Failure</Text>
+      <Text>: </Text>
+      <Text Style="Bold">Box Breathing Mini Game- </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> shares her oxygen</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">Success</Text>
+      <Text>: </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The rocks move in tightly. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> can only move straight down.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The screen shakes. The Player swims down into an open chamber.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The chamber is an oval, bordered by rock walls.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player rests on the bottom. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> releases Lark. The two float off of the floor.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The water background shifts, it shudders.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Two eye lids faze in from the crimson background. The snap open, brow furrowed. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The rest of Daphne fades in. Her eyes and outline of her face are the clearest to see, the rest of her is heavily obscured by the red.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She tilts her head to the side. Her pupils focus.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark floats with her arms tense.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(Underwater) </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Lark?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark swivels to </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>. Her </Text>
+      <Text AdornmentStyle="-1">silouette</Text>
+      <Text> raises her hand to her mouth. Lark trembles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SLAM! Daphne’s hand emerges from the deep, crashing onto the seafloor between Lark and </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A torrent of an even darker crimson spills from Daphne’s side. She winces.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DaPHNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why. Did you seek me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is in control. A pen tool appears just below Daphne’s head. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The outline of The Gore (First edition: The raft made of barrels and a trap door) appears in tiny shimmering dots.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player begins to </Text>
+      <Text Style="Bold">trace the shape.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A red pen appears. It is shaking. Daphne’s eyes widen, her pupils dilate. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The raft is fully formed out of star-like shimmering lines. It rocks back and forth on an invisible tide. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The red pen slowly moves towards the ship. It draws intricately and beautifully. The pen draws the ocean under the ship with well-detailed waves. The cartoony ship is a stark contrast to the semi-realistic waves.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A new connect the dots appears: It forms the second edition of the Gore (A tiny dingy with a hand-painted sail.)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player </Text>
+      <Text Style="Bold">traces the shape.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daphne relaxes her face. The red pen slides to the ship’s deck. It draws Lark’s upper torso. Daphne frowns. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The outline of Lark’s legs appears. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player </Text>
+      <Text Style="Bold">traces the shape.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daphne tips her head to the side. Her eyes scan Lark up and down.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A new connect the dots appears: It forms the third and final edition of the Gore. (A proud Galleon)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player </Text>
+      <Text Style="Bold">traces the shape.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daphne snaps her head upwards. She looks at the surface. She smiles, slowly pulling her head down towards Lark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark holds still.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The red pen draws the Gore’s intricate hull design, it draws detailed clouds above, each drawing going faster. She draws fish leaping from the waves.  </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The vision fades out. Daphne blinks. Lark reaches for her necklace. She snaps the chain and holds the obsidian pendant high above her head. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Two giant fingers reach out and pinch the pendant.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daphne’s eyes tighten. Her pupils go wiggly and glassy with tears.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DAPHNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You sought memory, of me?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark stiffens, she clenches her necklace. her voice quivers. Water is entering her lungs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Only you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark panics.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You would. Understand this power.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daphne’s eyes widen. She lets go of the pendant. Her hand snaps around Lark. Her thumb covering Lark’s mouth. Her voice is shaky.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DaPHNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I do. I have. And I have done nothing. You have wrought everything.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sparking image of the Gore appears again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DAPHNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>In my name, reject the isolation I’ve been entombed in.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark wrestles her face from behind Daphne’s thumb.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The image disappears.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Your power, you could teach me!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daphne frowns. Her lip quivers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DaPHNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You will pull creation from the mud. I will cower and stave off the rot.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark shivers. Her motions grow slower. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> rushes to her. She grapples Lark under her arms once again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Please, she won’t make it back!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daphne thumps both fists on the sea-floor. Blood gushes from her sides, obscuring her face and eyes. The water bubbles as if it were boiling.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DAPHNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My daughter of blood...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The water bursts! Like a geyser Lark and </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> are shot up and out of Daphne’s grave. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two are propelled up through the long decent.  </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">SPLOOSH</Text>
+      <Text>! The two rocket up to the surface. They land back in the sea.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Gore is behind them. </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> is flipped upside down on her usual wing of the ship. She picks a piece of seaweed off of the hull. She flips upward seeing the two return.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">AlORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> dives in after them. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> powers back to the surface and treads. She holds Lark, limp in her arms.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Lark? Lark, its all alright you did it!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark coughs, a bit of sea water sprays from her mouth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh! Hang on!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>THE PLAYER is given control </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Player must </Text>
+      <Text Style="Bold">orient </Text>
+      <Text AdornmentStyle="-1" Style="Bold">Saoirse’s</Text>
+      <Text Style="Bold"> arms in the correct position for Heimlich.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">ANY FAILURE</Text>
+      <Text>:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark cartoonishly yelps in pain.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">SUCCESS 1:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Water launches out of Lark’s mouth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>She was there!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">SUCCESS 2:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Less water launches out of Lark’s mouth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We saw her!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">SUCCESS 3:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A spew of droplets launch out of Lark’s mouth. She coughs</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shit!</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue"/>
+    <Paragraph Type="Action">
+      <Text>Lark pulls away from </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>. She takes a deep breath and holds her hand to her chest.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She turns, and takes </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> by the hands.</Text>
     </Paragraph>
     <Paragraph Type="Action"/>
-    <Paragraph Type="Dialogue"/>
+    <Paragraph Type="Action"/>
+    <Paragraph Type="Character"/>
   </Content>
 
   <Watermarking Opacity="70" Position="Diagonal Descending">
@@ -2426,9 +2964,9 @@ THE PLAYER must</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="683" Left="459" Mode="Normal" Top="228" Width="929"/>
+  <WindowState Height="683" Left="598" Mode="Normal" Top="198" Width="929"/>
 
-  <TextState Scaling="75" Selection="27749,27749" ShowInvisibles="No"/>
+  <TextState Scaling="75" Selection="36699,36699" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -2633,6 +3171,7 @@ THE PLAYER must</Text>
       <Character>Cut to Black:</Character>
       <Character>LARK and Alora</Character>
       <Character>Daphne</Character>
+      <Character>A`</Character>
     </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
@@ -2996,7 +3535,8 @@ THE PLAYER must</Text>
     <Member Actor="Man 1" Character="Lark"/>
     <Member Actor="Man 1" Character="Cut to Black:"/>
     <Member Actor="Man 1" Character="LARK and Alora"/>
-    <Member Actor="" Character="Daphne"/>
+    <Member Actor="Man 1" Character="Daphne"/>
+    <Member Actor="" Character="A`"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -3052,7 +3592,7 @@ THE PLAYER must</Text>
 
   <DisplayBoards>
     <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
-    <DisplayBoard Height="75" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="896,0" Type="StoryMap" Width="5554" ZoomLevel="277.707"/>
+    <DisplayBoard Height="75" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="5554" ZoomLevel="277.707"/>
   </DisplayBoards>
 
   <Writers/>
@@ -3120,25 +3660,25 @@ THE PLAYER must</Text>
     <ChartOptions Identifier="InclusivityAnalysis">
       <FilterSets>
         <FilterSet Default="Yes">
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="Role">
             <Match></Match>
           </Filter>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
         </FilterSet>
         <FilterSet>
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="">
             <Match></Match>
           </Filter>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
         </FilterSet>
       </FilterSets>
