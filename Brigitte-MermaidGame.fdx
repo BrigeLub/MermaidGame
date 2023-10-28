@@ -1381,10 +1381,947 @@ THE PLAYER must</Text>
       <Text>(end)</Text>
     </Paragraph>
     <Paragraph Type="New Act">
+      <Text>Dinner on the dingy</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="10 2/8" Page="17" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LARK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SAOIRSE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>ExT. The GORE (dingy) - mORNING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The tiny Gore sails shakily along the pink summer sea. The boat sails low to the water. Lark and </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> talk while </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> paints the sail with dark red paint. </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> lays on the bow, she dangles her arm down to catch the sea spray. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The ship itself is a tiny dingy with a single mast supporting a large sail. Its hull is well-oiled: it’s a collection of scrapped wood all stained to a uniformly dark brown.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The underside of the hull, nearest to the bow, looks like it has a wooden ribcage. The carved ribs meet at the centerline of the ship and extend up and back, flaring towards the sky and sea behind the boat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is in control.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A thought bubble appears above Lark’s head containing a pen that the player can control. The ship’s mast is turned towards the camera, showing the full sail.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>However the player draws on the thought-bubble, </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> replicates on the sail.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh man, and it just stays there?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yup! Once it dries out the paint should stain in there pretty good.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark circles the sail, looking it over.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SaOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s sick. Its just there! I put it on there. You sure you don’t want a go at this?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No no, you’re doing great! If you’ll believe it, usually we’ll receive sails already dyed and painted.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player continues to draw in the thought bubble.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What! Oh that’s boring.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah I guess so. I mean I never give it much thought.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The thought bubble goes away. Instead, the bottom right of the screen shows the sail and </Text>
+      <Text AdornmentStyle="-1">Saoirse’s</Text>
+      <Text> two arms. The Player can click on an arm to activate it and move it. The left arm holds a rag for erasing paint. The right arm holds the paintbrush. Clicking then holding performs the erase/paint, but clicking, repositioning, then clicking again moves the whole arm. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> can use her opposite arm as a straight edge. The paint itself is set to a low opacity, the player must make multiple passes for a true red color.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Example play: The player positions the left arm. The player paints along the arm. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> now has paint all over her left arm, but a clean red line on the sail.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I really didn’t think there would be this much to think about.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s your ship now, I’ve only seen a couple but I think we’ve done a good job so far.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The front of the bow snaps. </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> and the bow plunge into the sea.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>AH! (Splash)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Aw thanks, you guys have been great. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey no worries, I think its neat to be sailing mermaids.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She stops for a moment. She exhales. She and The Player continue to paint.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe I’ll have something to bring home too. If I’m being honest I’ve never gotten to be really </Text>
+      <Text Style="Italic">good </Text>
+      <Text>at much till now.</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue"/>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> appears from the left side of the screen. She powers ahead towards the ship. Her fingers clench into the broken piece of bow. She’s pissed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What? You mean like Fiber?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah. It’s like- I have to do everything manually. I have to try, I have to fail.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> flings the broken bow onto the boat. She leaps after it. She lands on the deck and the boat sways in response.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>UGH</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Aw well thats a good thing too. I’m not sure about </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>, but failure really puts me out of commission. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> steadies herself, then slowly drags the broken bow across the deck.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hm.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>HUH?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark and </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is given a “finish” button.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>When finished, the painting window goes away. Lark and </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> look at the sail.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The camera centers on them. Off screen, </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> is loudly hammering away at the bow.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+      <Text> (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What the.. Son of a.. I just..</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark reaches over and squeezes </Text>
+      <Text AdornmentStyle="-1">Saoirse’s</Text>
+      <Text> hand. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’ll all work out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> squeezes back in response.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The camera pans back out. </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> looks proud of herself. The bow is nailed back into place. She slides off onto the deck.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">AlORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Look! I...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SNAP! A giant turtle’s mouth clamps around the bow. Its beak crunches through the wood and nails.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> stares at the bow- she’s terrified.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What the fuck is that.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark clutches the mast.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1">Aspidochelone</Text>
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A-speedo? No that’s a </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text>. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone looks at </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>, bewildered. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> is confused. She goes to look over the side of the ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They steal like crops and stuff. I named one as a kid, lil </Text>
+      <Text AdornmentStyle="-1">Seanie</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well don’t go over there and kiss him hello, why’s it messing with us?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1">Aspidochelone</Text>
+      <Text> are vicious- One of them tailed The Whale for days before we lost it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Really? They’ve always been fine with us. Only trouble we got into was when that other </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> came around.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Does it think we’re another turtle??</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> is reminiscing in her own little world.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That other one we named Molly..</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shit we don’t have cannons yet do we?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Uh no ma’am.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The camera shifts to a top-down perspective.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player begins ship combat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>To the right of The Gore, the </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> rises from the water. The broken hull of a ship sits on its shell like a hat. The beast Roars. It sounds like a T-Rex gargling salt water.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The cannons on the Turtle ship hull Click! Wherever the turtle’s eye moves, the cannons follow.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh well he’s got cannons.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh my god.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> slaps its long tail on the water. The canons fire!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(singing) </Text>
+      <Text AdornmentStyle="-1">DUCKK</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Gore dips deeper into the ocean slightly, then pops back up. The turtle cannons take out just the railing of the Gore.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That was great! Did you do that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes ma’am. And you’re gonna do it too.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> roars again. Its eyes and cannons move to and fro, frustrated by the miss.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> leaps into Lark’s arms.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Now you listen to me, I’m a cannon ball and you’re gonna fire me over there.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you kidding? I can barely hold you now!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> shakes its head, it refocuses. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’re gonna work together. You just think about getting over there and I’ll do the rest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ok, ok I’ll try.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> scrambles over to the front of the ship. She whistles and waves a red flag at the </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The turtle’s eyes and cannons flick to </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SaOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Look at me! Look at me!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is in control. From a top down perspective, the player must:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>1. Wiggle the mouse over </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> to get the </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta’s</Text>
+      <Text> cannon attention off of Lark and </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>2. The 4 cannons on the </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> glow and pulse: Aim </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> (a dotted arrow line) towards the cannons.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>3. 3 card slots appear under Lark with 6 cards to choose from. Chose the appropriate order/group of cards so Lark can complete the action</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Every 30 seconds, the </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> fires its cannons.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">Failure:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player either lets the </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> target Lark, misses the cannon trajectory, or chooses the wrong cards.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>1. </Text>
+      <Text Style="Bold">Lark is targeted:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark is blown off of the ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">AlORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hang on!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> dives into the sea after Lark. The Player must button mash to catch up to the ship and get Lark back on board.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> roars.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>2. </Text>
+      <Text Style="Bold">The cannon misses</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> is flung in the wrong place.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>FOCUS!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>While </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> swims back to the ship, The player has to interact with </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> more often- The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta’s</Text>
+      <Text> attention is more easily attracted to Lark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>3. </Text>
+      <Text Style="Bold">Wrong cards are chosen</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark fails to throw </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>, </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> falls to the ground with a THUNK.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>AH!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> roars.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(End of Failure)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Bold">Success One:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player correctly aims towards a cannon. The player slots in (in order) Cards showing: Lark picking up a harpoon, Lark aiming a harpoon, Lark throwing a harpoon.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> sails through the air.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(Singing operatically)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fuck you </Text>
+      <Text AdornmentStyle="-1">turtleeee</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She lands on the shell. She starts ripping apart the wood around the cannon. With a squeak, the cannon wheels forward and falls into the sea.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> cries, it rolls, sending </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> into the sea. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>While </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> swims back to the ship, The player has to interact with </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> more often- The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta’s</Text>
+      <Text> attention is more easily attracted to Lark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> crawls back onto the deck.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright, very nice. Again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If you’re sure.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Bold">Success Two:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player correctly aims towards a cannon. The player slots in (in order) Cards showing: Lark picking up a swordfish, Lark aiming the swordfish, Lark throwing the swordfish.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> sails through the air.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(Singing operatically)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m the sea master baby!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She lands on the shell. She starts ripping apart the wood around the cannon. With a squeak, the cannon wheels forward and falls into the sea.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> cries, it rolls, sending </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> into the sea. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>While </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> swims back to the ship, The player has to interact with </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> more often- The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta’s</Text>
+      <Text> attention is more easily attracted to Lark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> crawls back onto the deck.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re doing great, good focus.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why thank you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> roars and splashes the water. It shakes its head. It’s head bursts from the shell, attached by its long slinking neck like a snake.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh what?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">skootches</Text>
+      <Text> away from the bow. The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> snaps at the boat. It grips the boat in its mouth. The Gore and the </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> are now side by side.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In the bottom right is a zoomed in angle on the </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta’s</Text>
+      <Text> head. The player can click on the turtle to have </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> poke at it with a broom. It growls when poked</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Grab the cannons!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>On it!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> scrambles up the side of the turtle. She claws away at a cannon. Both cannons are rotating </Text>
+      <Text AdornmentStyle="-1">widly</Text>
+      <Text>, matching the </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta’s</Text>
+      <Text> wild eyes. When the cannon is free, it stops moving. It squeaks forward and falls off of the shell. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The cannon hits The Gore deck with a CRACK!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ah! Careful!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m trying!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She whips around and smacks the other cannon with her tail. It falls with a louder CRACK! The Gore rocks and sways from the impacts.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark grapples onto the cannon. She aims it towards the exposed turtle neck. Lark squeezes her eyes closed, nervous.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fire.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is in control. All time stands still The cannon ball emerges slowly. It pulses and glows. The Player can drag the cannon ball around. When the player drags the ball to the neck, time resumes. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The cannon ball flies along the path the player created and BOOM! It collides with the </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta’s</Text>
+      <Text> neck.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> lets go of the boat, it howls, flailing its neck like a loose garden hose. It gags, out of its mouth an entire barrage of food, treasure, etc. </Text>
+      <Text AdornmentStyle="-1">expells</Text>
+      <Text> onto The Gore’s deck.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Tonn-ochta</Text>
+      <Text> gasps. With a low growl it sinks slowly back under the waves.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> leaps off of its back and back onto the ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh wow.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The entire deck of The Gore is covered in rotten fish, sealed barrels of wine, weapons, skeletons and half-digested furniture. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sea is calm. The camera returns to its usual side-angle.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sure we could salvage, some of this.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark slowly rises from the cannon.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, yeah I think we could.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That was terrible.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> flicks a rotten fish off of the deck.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well I’m sure Lil </Text>
+      <Text AdornmentStyle="-1">Seanie’s</Text>
+      <Text> feeling much better now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I guess so.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And, we have cannons now.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She pats the cannon. CRACK! The deck splinters a little more.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>? Do you know where we’re at now?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh! Last night we were 13 by 15? But it was a little cloudy, I couldn’t see too well.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark kicks more fish off of the deck.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s alright, next outpost should be Tail’s End anyways.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh the one that sends out the bird boats?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark sits in the half-digested captain’s chair.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, the Flamingos. That’s the one. I’ve got a friend out there, Maria. She can probably helps us get this ship back in order.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is in control. The player can swing the mouse back and forth to </Text>
+      <Text Style="Bold">make </Text>
+      <Text AdornmentStyle="-1" Style="Bold">Saoirse</Text>
+      <Text Style="Bold"> and </Text>
+      <Text AdornmentStyle="-1" Style="Bold">Alora</Text>
+      <Text Style="Bold"> fling rotten fish off of the deck.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark gets out of the chair, she starts pushing it up to the helm by the wheel.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The chair </Text>
+      <Text AdornmentStyle="-1">screetches</Text>
+      <Text> along the deck.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you know why they do the Flamingo thing?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh I think its a superstition thing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, I like it when they do the shark designs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>See? They’ve earned your favor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>MY favor? I’m gonna eat em anyways!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ew, I don’t wanna talk about you eating people.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well its not you! I know you, I’m not gonna eat you!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue"/>
+    <Paragraph Type="Character"/>
+    <Paragraph Type="Parenthetical"/>
+    <Paragraph Type="Character"/>
+    <Paragraph Type="New Act">
       <Text>General Gore Sailing</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 1/8" Page="17" Title="">
+      <SceneProperties Length="2 1/8" Page="28" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1560,7 +2497,7 @@ THE PLAYER must</Text>
       <Text>!</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>ALORA</Text>
+      <Text AdornmentStyle="-1">ALORA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>(Singing)</Text>
@@ -1579,7 +2516,7 @@ THE PLAYER must</Text>
       <Text>General Gore combat: Floundering Whale</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 3/8" Page="20" Title="">
+      <SceneProperties Length="4 3/8" Page="31" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1955,7 +2892,7 @@ THE PLAYER must</Text>
       <Text>A Breathless Encounter</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="25" Title="">
+      <SceneProperties Length="2 3/8" Page="36" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2171,7 +3108,7 @@ THE PLAYER must</Text>
       <Text>Lark sighs. She looks up to the stars. She looks down at the crimson water. Lark walks slowly into her Captain’s Quarters and closes the door.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="8 7/8" Page="27" Title="">
+      <SceneProperties Length="8 7/8" Page="38" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2964,9 +3901,9 @@ THE PLAYER must</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="683" Left="876" Mode="Normal" Top="269" Width="929"/>
+  <WindowState Height="1001" Left="538" Mode="Normal" Top="78" Width="1227"/>
 
-  <TextState Scaling="75" Selection="19038,19038" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="27568,27568" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -3197,6 +4134,7 @@ THE PLAYER must</Text>
       <Location>THE GORE</Location>
       <Location>EXT: THE GORE</Location>
       <Location>INT: LARK'S ROOM</Location>
+      <Location>THE GORE (DINGY)</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -3660,25 +4598,25 @@ THE PLAYER must</Text>
     <ChartOptions Identifier="InclusivityAnalysis">
       <FilterSets>
         <FilterSet Default="Yes">
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="Role">
             <Match></Match>
           </Filter>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
         </FilterSet>
         <FilterSet>
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="">
             <Match></Match>
           </Filter>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
         </FilterSet>
       </FilterSets>
