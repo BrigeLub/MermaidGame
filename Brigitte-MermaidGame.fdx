@@ -1381,10 +1381,809 @@ THE PLAYER must</Text>
       <Text>(end)</Text>
     </Paragraph>
     <Paragraph Type="New Act">
+      <Text>Learning to breathe</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="7 7/8" Page="17" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="LARK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SAOIRSE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Saturn Islands - dawn</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> tows Lark along on the scrapped together raft. They venture into the calm waters of the Saturn Islands. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> slows, she stops. She tosses the stretch of rope around a rock. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark lowers slowly and cautiously. She hops off of the raft and into the water. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> swims up closer, she takes Lark by the shoulder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You need to cut out everything else.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She motions with her hand. Her eyes are twinkling, beyond excited.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah well I know that part.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark treads water with stiff and cautious movements. Her eyes refuse to focus on </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>. They scan the water, back and forth.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> frowns, Lark doesn’t share her enthusiasm. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> removes her hand from Lark’s shoulder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t know how to teach you- for me it just happens.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well show me your way and I’ll filter it through my way.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> nods her head.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh! Yeah, filter’s a good way to think about it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> brushes her hand along her own arm. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>All through the skin. You pick out only what you need ok?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah alright, I guess that makes sense.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> is exhilarated. She jolts into action and shoves Lark under the water.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You got it!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark jerks in protest, flailing and surprised. </Text>
+      <Text AdornmentStyle="-1">Saoirse’s</Text>
+      <Text> hands lift off of her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark is underwater, slowly sinking into mid-screen. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(Underwater) Hm</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The camera is below the water. We see Lark’s dark silhouette against the light glimmering water.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The silhouette kicks, Lark’s face flicking back and forth.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is in control.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Streams of water represented as wavy lines join Lark on the screen. They propel in from the sides of the camera towards Lark. Upon impact, they twirl and spin away- a school of ricochets. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark sits still. Little twinkling particles begin flowing with the water lines. The particles hit Lark in the same behavior as the water.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark starts to struggle. Her hands shoot up to her mouth. She starts kicking sporadically.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A navy blue vignette begins to appear and pulse around the screen. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>If The Player clicks and drags at a particle- they can control their movement.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player drags a particle to Lark. It sinks slowly into Lark’s silhouette, gradually dimming until it sinks in completely. Each captured particle reduces the intensity of the navy vignette. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>If the vignette becomes solid- it consumes the screen and results in a </Text>
+      <Text Style="Underline">Failure</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">Failure:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The navy vignette consumes the screen. Just before all visuals are lost- we see another silhouette- </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>- diving below and dragging a floundering Lark back up to the surface.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>Cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark sits on the scrappy raft. She breaths deeply and rests her head in her hands. She’s discouraged.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> rests her head and arms on the raft. She smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s a good try! See? Not too bad.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She turns and pops her head below the water. Her ruby tail happily flicks above the surface. Drops of water from her tail fly into Lark’s face. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark looks up towards </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>- her gaze softened.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> brings her head back up. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Lovely down there too.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark stretches out and tilts her face to catch the rising sunshine.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If you’ll believe it, I’ve never been under for that long.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, in my case having to swim at all was something of a “problem scenario.” </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> nods her head.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh yeah your little boats swim for you, huh?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Little boats- yeah I guess they do most of the work. They are supposed to float.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> looks at the water.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re going to try again, aren’t you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ah yeah, something like that.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She sighs, defeated.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe we can do something else, I don’t think this is going to work.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> frowns.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What you mean? A little air bag?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah- yeah something like that. Whatever I can do I just can’t do it like this. Like you can.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> grips the raft tightly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Lark, I think you have real power. Like us.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She winces, she feels like an imposter giving advice she cannot follow herself</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You can do this, and I’m going to stay with you until you do.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well maybe we can come back sometime-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Deep breath!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark’s eyes widen, she nods quickly and breaths in- puffing out her cheeks.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SPLASH! </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> judo throws Lark back into the sea.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark is underwater, slowly sinking into mid-screen. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(Underwater) Hm!!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The camera is below the water. We see Lark’s dark silhouette.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The silhouette kicks, Lark’s face flicking back and forth.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is in control.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Streams of water again join Lark on the screen. They propel in from the sides of the camera towards Lark. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark sits still. The little twinkling particles begin flowing with the water lines. The particles hit Lark in the same behavior as the water. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>But now, the particles pulse with light as they dance around the screen</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark starts to struggle. Her hands shoot up to her mouth. She starts kicking sporadically.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The navy blue vignette begins to appear and pulse around the screen. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>If The Player clicks and drags at a particle- they can control their movement.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player drags a particle to Lark. It sinks slowly into Lark’s silhouette, gradually dimming until it sinks in completely. Each captured particle reduces the intensity of the navy vignette. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">Any Success/ End of Failure:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player brings 10 particles to Lark each one sinks slowly into her silhouette. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark panics- she’s been down below longer than she’s ever been.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She kicks, flailing her arms.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>No matter how many particles the player drags over- The navy vignette closes in.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Just before all visuals are lost- we see another silhouette- </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>- diving below and dragging a floundering Lark back up to the surface.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>Cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark sits on the scrappy raft. She breaths deeply and rests her hands on her knees, she’s smiling. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You were breathing, that was a long time!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah! Yeah I think I was. How is that possible?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> laughs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You can’t think like that! You just try and you just do.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1">Sersh</Text>
+      <Text>’, That’s all I do. I’m all thinking, all the time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well just don’t do that!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They both laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I still have a long way to go. It’s really a weird feeling.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> lifts up the raft rope from the rock.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SaOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark settles her weight on the raft.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark looks at </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> about to pull her back to the Summer Sea.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh! Hang on.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark kneels down and uses her arms to row along with </Text>
+      <Text AdornmentStyle="-1">Saoirse’s</Text>
+      <Text> towing. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> smiles appreciatively. The two venture off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Really it’s like turning off an entire system. I’m just putting everything where it’s supposed to go- all by myself.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> is quiet- she pulls the raft along.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark stops, she dips her hand into the water. She scoops some up and drips it along her own arm.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The camera cuts and focuses. Lark’s arm is focused horizontally across the screen with the water settled on top.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player </Text>
+      <Text Style="Bold">clicks the arm. </Text>
+      <Text>A little hole is Popped! Out of Lark’s skin.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A particle-like the underwater gameplay before slips down the hole, glowing and pulsing. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player clicks again. Another hole and another particle.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player clicks again. Another hole and another particle.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The screen condenses suddenly - the normal scene of Lark and </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> behind it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The image of Lark’s arm- littered with holes is condensed into a card. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>This card like the ones used to plot Lark’s ideas and plans. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The finished card spins. It flies into Lark’s open hand. She blinks, and it disappears. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is in control as </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> and Lark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A slight underwater view is </Text>
+      <Text AdornmentStyle="-1">visable</Text>
+      <Text> under the raft.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Should we grab some dinner on our way back?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark shakes off her distraction. And resume’s rowing alongside </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hm? Oh yeah that sounds good.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Great because we’re about to go through a whole school.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> accelerates, she’s excited.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wait I don’t have a...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The first fish launches out of the ocean. It smacks Lark in the face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh shit!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She laughs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> nabs a fish clean out of the air with her mouth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(Mouth full of fish)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Go on!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tons of fish fly up and launch across the screen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Clicking on a fish adds it to a growing pile on top of the raft.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Every 5th fish added to the pile causes the raft to sink slightly lower in the water.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’re gonna need a bigger ship if we wanna keep going on like this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(Mouth full of fish)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What? I’m pulling that one too?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark laughs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, it’ll be wind powered. Like the other boats.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> spits her fish into the pile. At this point the fish is just a head and a tail held together by bones.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh! The air fins! They seem cool!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Another fish slaps Lark in the face.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Behind the raft, a shadowy glob appears on the horizon.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Birds circle the glob.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark turns her head. The crazy flow of fish is slowing down to a stop.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>In fact, let’s veer to the right. We might be able to scrap something here.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> licks her lips. She flicks her tail and sends a pile fish flying. She catches it in her mouth. She chomps down happily.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text> (Mouth full)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whatever you say, boss.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The raft turns to the right.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>Cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 7/8" Page="25" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="LARK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SAOIRSE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>ExT. Island of Scrap</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is a great spot to scrap some material.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark stomps around the scrap. She scans the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oo I do like this.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> heaves a broken wheel from the wreckage. The wheel is coated in an emerald green paint.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well we will need a wheel eventually.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> runs her hand along the coating.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How is it this color! Does wood come in this color.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark smiles, she jogs over to </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s paint! You could make it any color you like.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh that’s wonderful.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> peels a chip of paint off of the wheel. She throws the rest of the wheel away. She messes with the paint chip between her fingers, trying to catch the light in its sheen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, ok.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark returns to the search, tromping through wreckage and mud.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Keep your eyes peeled for an “air fin” It’ll look like a great sheet of cloth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah whatever that means, I’m on it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two travel together along the island.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As they move, scraps of cloth on the ground glow and pulse. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>If the Player clicks on them, Lark runs over and picks them up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Check this!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark runs over. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> heaves a giant mast out of the way. Underneath is a strong sail, curled up on the ground like a haphazard snake. She unveils the full sail. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sail is enormous. The stitching is broken and frayed, but the entire build is full of potential. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hell, we can’t carry this with us.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark looks to the sky and admires the morning sun.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can we call </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> over? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SaOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Aw sure! If I run over now we can probably both be back before noon!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Go for it- We’ll build, make camp here tonight, then sail on out with a fresh new boat!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> shakes with excitement.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah that’s gonna be sick. I’ll go right now!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She flips off the island like a dolphin, powering back to The Summer Sea to grab </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark smiles as she goes. She takes the sail in her hand. A thought bubble forms over her head.</Text>
+    </Paragraph>
+    <Paragraph Type="Character"/>
+    <Paragraph Type="New Act">
       <Text>Dinner on the dingy</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="10 5/8" Page="17" Title="">
+      <SceneProperties Length="10 5/8" Page="27" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2340,7 +3139,7 @@ THE PLAYER must</Text>
       <Text>General Gore Sailing</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 1/8" Page="28" Title="">
+      <SceneProperties Length="2 1/8" Page="38" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2535,7 +3334,7 @@ THE PLAYER must</Text>
       <Text>General Gore combat: Floundering Whale</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 3/8" Page="31" Title="">
+      <SceneProperties Length="4 3/8" Page="41" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2911,7 +3710,7 @@ THE PLAYER must</Text>
       <Text>A Breathless Encounter</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="36" Title="">
+      <SceneProperties Length="2 3/8" Page="46" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3127,7 +3926,7 @@ THE PLAYER must</Text>
       <Text>Lark sighs. She looks up to the stars. She looks down at the crimson water. Lark walks slowly into her Captain’s Quarters and closes the door.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="8 7/8" Page="38" Title="">
+      <SceneProperties Length="8 7/8" Page="48" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3920,9 +4719,9 @@ THE PLAYER must</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="1001" Left="538" Mode="Normal" Top="78" Width="1227"/>
+  <WindowState Height="1001" Left="-160" Mode="Normal" Top="78" Width="1190"/>
 
-  <TextState Scaling="100" Selection="6448,6448" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="26509,26509" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -4154,6 +4953,8 @@ THE PLAYER must</Text>
       <Location>EXT: THE GORE</Location>
       <Location>INT: LARK'S ROOM</Location>
       <Location>THE GORE (DINGY)</Location>
+      <Location>CRAB SHELL ISLAND (IN SUMMER SEA)</Location>
+      <Location>ISLAND OF SCRAP</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -4549,7 +5350,7 @@ THE PLAYER must</Text>
 
   <DisplayBoards>
     <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
-    <DisplayBoard Height="75" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="5554" ZoomLevel="277.707"/>
+    <DisplayBoard Height="75" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="1120" ZoomLevel="56.000"/>
   </DisplayBoards>
 
   <Writers/>
@@ -4617,25 +5418,25 @@ THE PLAYER must</Text>
     <ChartOptions Identifier="InclusivityAnalysis">
       <FilterSets>
         <FilterSet Default="Yes">
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="Role">
             <Match></Match>
           </Filter>
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
         </FilterSet>
         <FilterSet>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="">
             <Match></Match>
           </Filter>
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
         </FilterSet>
       </FilterSets>
