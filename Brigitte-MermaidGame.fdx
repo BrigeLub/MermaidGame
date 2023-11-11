@@ -3331,10 +3331,787 @@ THE PLAYER must</Text>
       <Text>' on into the night!</Text>
     </Paragraph>
     <Paragraph Type="New Act">
+      <Text AdornmentStyle="-1">Night-spiration</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 2/8" Page="41" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LARK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SAOIRSE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. The GORE (DINGY) - night</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The night is quiet and still. The Gore, a small dingy floats along in the Saturn Seas.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> clambers onto the deck- she’s exhausted. She flops in a huff onto the deck. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark continues, completely focus. She raises her hand- the ship sail jerks upwards. She tosses her hand downward and the sail jerks back down. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Lark?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark repeats the process, raising the sail. The mast creaks in protest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hm?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark barely notices </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>. She continues her actions. Another raise, another lower. The sail moves jerkily and with much resistance. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark frowns. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> tightens, she’s worried.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We won’t make it to Seal point till mid day tomorrow while we’re dragging this along.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> gestures to the giant bone white tree being towed behind the tiny Gore ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>BONK! Off screen- the waves smack the tree trunk into </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>OOF! </Text>
+      <Text AdornmentStyle="-1">Fuckin</Text>
+      <Text> mother of a...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Thunk, splash, splash. Off screen </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> wrestles with the tree in retaliation.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> sighs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We need to rest here while the waves are still calm enough.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark lowers the sail once more. She blinks. She regards </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> but still enthralled by her repetitive practices.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, we can’t yet. The wood-</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She gestures absentmindedly behind her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>-will rot if we don’t finish it on dry land..</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark turns back to the mast. She’s exhausted.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>..soon.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">Alora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>(musically)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then you can take it!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She holds the last syllable.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">FWOMP</Text>
+      <Text>! The tree launches out of the water.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>BOOM! It crashes on the back deck of the dingy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The entire boat rocks wildly back and forth in response. It creaks and cracks in protest. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> and Lark fall forward.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SaOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good enough for me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She rises- taking Lark’s shoulder. Lark’s face is empty. She looks lost and hopeless.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Try to sleep.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> leaps off of the deck and into the sea below.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark sighs. She whips her hand back angrily. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SPLASH! The anchor’s chain clinks and whirls- letting the anchor sink into the depths.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark relaxes. She rubs her temples slowly and carefully. She raises the sail with her hand. The sail rises slowly and jerkily.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark hesitates. Her eyes fill with worry. Her whole body language falls in on itself, anxious.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sail gently falls back down.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark sniffs, her eyes teary. She walks over to the pulley.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is in control.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player clicks and drags to rotate the pulley. The sail Clicks! When it is gathered at the top.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark wipes her eyes. She walks down the stairs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The camera shows a doll-house view of the bottom deck equipped with a hammock and a few chests. Lark flops into the hammock.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO BLACK.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="5" Page="43" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DAPHNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LARK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. The GORE (DINGY)- midnight</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The ship comes back into view. It’s midnight. The sky is a swirling red. The stars glow. They’re humming. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark tosses and turns in the hammock.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The stars hum together- they glow fiercely. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The humming turns into a loud drone. The stars themselves shaking.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark jolts upright. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The stars return to normal, the noise stops.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark takes deep breaths. She looks around- scared.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sky above is churning flowing clouds in a murky mist of red and rich navy night sky.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark slips out of the hammock. She rubs her eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is in control. They can move Lark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player walks up the stairs. Lark looks up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sky above is still moving- full of life.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The boat rocks gently. Far off thunder rumbles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The waves begin to roll in from the right hand side of the screen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A wave hits the bow of the boat. The water disperses and the ship rocks.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark steadies herself.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player walks around the deck.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player reaches the bow. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A giant wave surges in from the right. A bolt of lightning flashes nearby.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The new light turns Lark into a silhouette for a moment.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>BOOM! The thunder rattles the ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The tree- haphazardly slapped on the back of the boat shifts and creaks.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark looks up. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The clouds- with a newfound purpose swirl together. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The wake of the ocean increases in its intensity and chaos.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark shudders.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>BAM! Another bolt of lightning.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The clouds merge- twisting and contorting like worms.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They pulse together like an arrangement of guts marching o the same heartbeat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The guts bubble. The sky betrays a now </Text>
+      <Text AdornmentStyle="-1">trypophobic</Text>
+      <Text> stew of wormy strands, boiling blood.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>CRASH! A bolt of lightning. It shoots down the middle of the elaborate scene.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>It splinters.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The final image: a ribcage surrounded by gore.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark looks up- stunned. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She throws her hand up into the air as if she were asking the sky to wait for her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The image persists- still shifting and swirling, the afterglow of the lightning slowly fading. (Any subsequent lightning will fall in a similar pattern as before)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LaRK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark shakes out of the trance. She stumbles back down the stairs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She tears apart the cabin space looking for something.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>BOOM! A huge wave hits the boat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The tree shifts and falls back into the sea with a SPLASH!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark stumbles forward, thrown by the ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>CLINK! A knife falls to the ground- freed by the turbulence.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark scrambles to it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>With knife in hand- she runs back up the stairs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She looks over to where the wood used to be sitting. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She gasps- it’s not there.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark throws her head up. She stares at the strange sky while moving her way to the stern.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark peeks over the side- the wood is still held tightly to the ship by cables.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark is breathing heavily. She glances back upwards.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is in control.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player moves towards the cables. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark wraps her body around a cable, ready to climb down it while upside down.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player moves slowly, carefully- moving Lark downwards.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The waves continue to crash and buck the ship. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>If the Player moves too quickly, Lark will fall.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text Style="Underline">Failure:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark falls.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She holds onto the cable by one hand. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The waves lap and pull at her body.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>When fallen, the Player must button mash to regain Lark’s upside down position.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>END OF FAILURE</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player moves Lark all the way down to the floating tree.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark hops to it. The tree sinks a little lower with the added weight.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark brings out her knife and starts cutting.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In the bottom right of the screen- there is a focused view of the wood.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The window shows one quadrant of the entire wood piece.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In response- the first quadrant of the image in the sky pulses more than the others.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The window shows red crosshatching and outlines of shapes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The player’s cursor hovers over the window.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The cursor is Lark’s knife.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player clicks and drags along the cross hatched defined section.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark carves into the wood. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player drags in long straight motions.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A circle crosshatch section prompts the player to cut as if they were scooping ice cream.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>On the main screen Lark carves away at the wood.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She flings shavings and water with each cut.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>To complete a section- the player must pass over it three times. The crosshatch disappears when finished.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player carves out each defined section of Quadrant 1. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The window moves to Quadrant 2.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sky also moves its pulsing to its second Quadrant to match.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A voice- almost a murmur echoes in the night sky. The speaking trembles the sea.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Daphne (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maid without fins...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark doesn’t stop, she continues to work without acknowledging the voice. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Her movements quicken with frenzied motions.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player works on carving out Quadrant 2.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They follow the crosshatching and outlines.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Each stroke has a distinct flare. The Player swirls, swishes, and strikes along the set pattern.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Quadrant 2 is finished.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The window and the sky shift to Quadrant 3.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DaPHNE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Cleave new body of vacancy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player works on Quadrant 3. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark is swiping and carving with crazed intent. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The cursor is shaking as the Player moves it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lightning strikes, the waves splash.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark stumbles forward.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She holds on tight and returns to work.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Water and curls of wood launch off of the tree as she carves.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Quadrant 3 is finished.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everything shifts to Quadrant 4.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark carves away.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The outlines here are far more intricate that they began. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Different shapes show curls and barnacle-like craters.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player reaches the last cut. The voice finishes upon interaction with that last cut.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DAPHNE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Inject your worth like poison.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark finishes. She’s shaking.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The image in the sky pulls apart.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Navy floods over the red.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sky returns slowly to normalcy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The tide staggers. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>All of Lark’s actions slow.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She makes tiny detailed cuts into the wood.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She blinks slow, her movements betray her exhaustion.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In a last burst of energy Lark drives her knife into the finished carving.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The carving is elaborate and accurately detailed.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark falls to her hands. Her head touches the wood.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The night fades to inky black peace.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 3/8" Page="48" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LARK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SAOIRSE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. THE GORE (DINGY) - DAWN</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The first light of dawn paints the sky in soft hues of pink and gold. The sea is calm again, and The Gore floats peacefully in the stillness. Lark, exhausted and drained, remains on the deck beside the intricately carved wood. The carving, now a masterpiece, reflects the dim morning light.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> emerges from the bottom of the sea, rubbing her eyes. She glances at Lark, concerned.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical">
+      <Text>(softly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Lark, were you up all night?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark doesn't respond immediately, still catching her breath. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> throws her arms up on the carved tree beside her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> glances down, noticing the complexity of the carving.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical">
+      <Text>Oh Lark...</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue"/>
+    <Paragraph Type="Action">
+      <Text>Lark looks at the finished carving, a mix of satisfaction and weariness in her eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It felt like I was dreaming. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>, perplexed, studies the intricate details of the carving.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You did this yourself?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark nods.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Something was working through me. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> glances at the carving, now understanding its significance.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So this is it, it’s complete? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark nods again, a small smile breaking through her fatigued expression.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Aw shit, we have to get this to land! You said yourself it’ll rot! Let me grab </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> turns to dive back down.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t worry.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark scoops a handful of seawater. She drips it down the finished figurehead.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The water streams off of the wood as if it were well oiled, the water forming little droplets that slick right off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical">
+      <Text>(astonished)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What... how did you...?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark looks up, a gleam in her eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It's preserved, I think it’ll protect us now. I put everything I had into it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>, now understanding the profound significance of the carving, stands in awe.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue"/>
+    <Paragraph Type="Action">
+      <Text>Lark nods, a sense of purpose radiating from her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Our journey, our struggles, and our </Text>
+      <Text AdornmentStyle="-1">triumphsâ€”carved</Text>
+      <Text> into a vessel that will endure.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> grins, a newfound appreciation for the mystical nature of their adventure.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let's not waste any more time. We need to sail to Seal Point and share our tale with the world.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark rises from the deck, the weariness replaced by determination.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Agreed. To Seal Point, and whatever awaits us there.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> and Lark share a determined look as they hoist the sail. </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>, now awake, joins them on the deck.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What's the plan, Captain?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark, now embracing her role as the captain, points to the horizon.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Seal Point awaits. Let's set sail and make our mark on this vast sea.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The three of them work together, the carved figurehead gleaming in the morning light. The Gore begins to move, cutting through the calm waters as the dawn unfolds.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition">
+      <Text>FADE OUT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The small dingy, guided by the ethereal presence of Daphne's blessing, sails toward Seal </Text>
+      <Text AdornmentStyle="-1">Pointâ€”an</Text>
+      <Text> emblem of resilience and the untold stories awaiting discovery in the Saturn Seas.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition"/>
+    <Paragraph Type="New Act">
       <Text>General Gore combat: Floundering Whale</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 3/8" Page="41" Title="">
+      <SceneProperties Length="4 3/8" Page="51" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3710,7 +4487,7 @@ THE PLAYER must</Text>
       <Text>A Breathless Encounter</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="46" Title="">
+      <SceneProperties Length="2 3/8" Page="56" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3926,7 +4703,7 @@ THE PLAYER must</Text>
       <Text>Lark sighs. She looks up to the stars. She looks down at the crimson water. Lark walks slowly into her Captain’s Quarters and closes the door.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="8 7/8" Page="48" Title="">
+      <SceneProperties Length="8 7/8" Page="58" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4719,9 +5496,9 @@ THE PLAYER must</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="1001" Left="-160" Mode="Normal" Top="78" Width="1190"/>
+  <WindowState Height="1001" Left="0" Mode="Normal" Top="78" Width="1190"/>
 
-  <TextState Scaling="100" Selection="26509,26509" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="51745,51745" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -4955,6 +5732,7 @@ THE PLAYER must</Text>
       <Location>THE GORE (DINGY)</Location>
       <Location>CRAB SHELL ISLAND (IN SUMMER SEA)</Location>
       <Location>ISLAND OF SCRAP</Location>
+      <Location>THE GORE (DINGY)- MIDNIGHT</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -5418,25 +6196,25 @@ THE PLAYER must</Text>
     <ChartOptions Identifier="InclusivityAnalysis">
       <FilterSets>
         <FilterSet Default="Yes">
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="Role">
             <Match></Match>
           </Filter>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
         </FilterSet>
         <FilterSet>
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="">
             <Match></Match>
           </Filter>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
         </FilterSet>
       </FilterSets>
