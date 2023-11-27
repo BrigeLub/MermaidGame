@@ -1162,7 +1162,7 @@ THE PLAYER must</Text>
       <Text AdornmentStyle="-1">ALORA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>She should hang out in Summer for now...</Text>
+      <Text>She should squat outside of The Respite for now...</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>In the distance, </Text>
@@ -1381,10 +1381,559 @@ THE PLAYER must</Text>
       <Text>(end)</Text>
     </Paragraph>
     <Paragraph Type="New Act">
+      <Text>Storm Escape</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="6 2/8" Page="17" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="BLUE SIREN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LARK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SAOIRSE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. STORM'S RESPITE - night</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sea is a sickly calm. Each wave that passes is an unfriendly deep and muted navy blue.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The crew paddles along- </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> at the front of the raft towing, Lark sat on the floating trap door piece, and </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> pushing it all along and keeping balance.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark dips her hand into the water. On the cracked wood of the raft she traces shapes with the water. The water dries, clearing the wood canvas.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is in control of Lark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player draws on the raft visualized by a small canvas on the right hand side of the screen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In a layer below the draw area- there is a visible, traceable guideline for The Player to follow.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Whenever The Player follows the guide, the dialogue continues.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Otherwise, </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> whistles a sea shanty.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player correctly draws a ship based on the guiding lines.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The water dries and the canvas clears.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you eat fish, Lark?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The drawing guide turns into a fish.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Before Lark can answer, </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> interjects.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course they can eat fish. What kind of question is that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What! I don’t know what Twins can eat!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>YOU don’t know what they eat?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>WE don’t eat the stomachs!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark looks up. She laughs nervously.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> regards her. She smiles and flicks her eyes to the side.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh you’re fine. To young anyways.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ah. Well..</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> interjects again. She laughs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Will you stop that! You’re freaking everyone out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright fine!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player finishes the fish drawing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The guide is replaced by the body of a Twin.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That captain of yours though...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>STOP!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They all laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re deranged.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah well someone’s gotta do it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player finishes the drawing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The guide now depicts a fire.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We cook food actually. Better for our...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She pauses.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stomachs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What, like curing it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah similar but with heat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hm. Hot food.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> perks up, excited by the idea.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’ll make some for us, won’t you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Aw yeah! I’m sure we could get something together.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player finishes the drawing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>It fades and the drawing box disappears as well.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark straightens up. She peers up at the sky.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Above the sea, storm clouds gather and churn in the inky sky.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> catches her movement and looks up as well.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In the distance thunder rumbles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shit, hey ‘</Text>
+      <Text AdornmentStyle="-1">Lor</Text>
+      <Text> these clouds don’t look so good.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh yeah no. We should get moving. Now.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two start to move faster.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> pulls on the rope with all of her might.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The raft moves slightly faster- but it jerks side to side like a truck with a heavy trailer.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Both </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> and </Text>
+      <Text AdornmentStyle="-1">Alora’s</Text>
+      <Text> forces are working slightly against each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark frowns.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This isn’t going to work- you two should both come back here and we can push it together.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> nods.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whatever you say. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She dives down into the water.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She reappears besides </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> and grabs onto the back of the raft.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> shimmies to the side to make room for Lark in the middle.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just hold on alright? We shouldn’t be too far from the Storm border now. Right?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> is nervous. She looks up at the storm clouds and around and the pulsing waves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah- we should be fine?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She grimaces and flicks her tail anxiously.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Lark, you can’t breathe under can you?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark looks down sheepishly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ah no, I’m sorry.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She rips off her boots and stacks them on the raft.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark pulls herself into the water and shudders at the temperature.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No no it’s fine! Figured as much.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> tries to keep light. She’s more anxious than anyone else. Her eyes are filled with experience.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> begins to push the raft forward. Lark and </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> move into action beside her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright- let’s move.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The wind billows.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player is in control.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>From a top-down perspective- the player must avoid rocks protruding out of the sea while also keeping Lark attached to the speeding raft.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>If The Player hits a rock- they must drag each of the three back to the raft.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>To keep Lark onboard- The Player, as Lark, must click to reinforce her grip on the raft.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>If Lark falls- the Player must button mash for her to catch up and grab back on.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>When she catches up- Lark is out of breath. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> pats her on the back.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> and </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> swim in sync at a high speed.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The waves start small. They slightly push the raft towards the rocks.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In the sky (portrayed as a vignette around the screen) clouds swirl and the thunder grumbles louder.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>To the left and right of the crew- other sirens jump from their rocky perches and into the safety of the sea below them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A siren to the right of the group has a lobster-blue tail.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She calls out to </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Blue Siren</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>‘</Text>
+      <Text AdornmentStyle="-1">Lor</Text>
+      <Text>! Storm’s rolling in!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Blue Siren is concerned. She’s ready to dive into the safe depths but not before grabbing </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> if need be.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Go on without me! Going out of the path... anyways.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Blue Siren frowns and shrugs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Behind her, two smaller baby sirens leap into the sea with a huff.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The mother Blue Siren looks at </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> one last time before leaping in herself.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You don’t want to say goodbye?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Um.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She looks back, then forward.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’ll be back soon enough. I’m not taking any chances with this weather.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> looks back again, sadly. On the raft- she pushes even faster.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The waves become more severe.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They jolt The Player into the pointy rocks.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark needs to be clicked on more often to keep her grip steady.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The crew continues forward- The Player avoiding rocks becoming more frequent.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The storm escalates even further. The wind howls.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>There are no more sirens about- they have all abandoned the surface.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just a bit farther we’ll be in Saturn. Little more.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark tries to speak between breaths and her own exhaustion.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LARK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The lightning. It will hit the surface.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">ALORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know that!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> is worried beyond belief. She clenches up- her eyes flicking side to side looking for an answer.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She looks to the sky.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The camera switches back to a side profile.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sky above is alight with lightning ready to fall.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> gasps. She takes a deep, long breath.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark sees this- she takes a breath as well- her face betraying her confusion.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> doesn’t notice.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Just nearby: the peaceful waters of the greater Saturn islands.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> sighs. She lets out a </Text>
+      <Text AdornmentStyle="-1">meloncholy</Text>
+      <Text> progression that starts light but ends unnaturally deep.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In response to her song- the raft sinks like a stone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Overhead, lightning strikes the surface where they once were- it dissipates gently.</Text>
+    </Paragraph>
+    <Paragraph Type="Character"/>
+    <Paragraph Type="New Act">
       <Text>Learning to breathe</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="7 7/8" Page="17" Title="">
+      <SceneProperties Length="7 7/8" Page="24" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LARK">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2019,7 +2568,7 @@ THE PLAYER must</Text>
       <Text>Cut to:</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 7/8" Page="25" Title="">
+      <SceneProperties Length="1 7/8" Page="32" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LARK">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2183,7 +2732,7 @@ THE PLAYER must</Text>
       <Text>Dinner on the dingy</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="10 5/8" Page="27" Title="">
+      <SceneProperties Length="10 5/8" Page="34" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3139,7 +3688,7 @@ THE PLAYER must</Text>
       <Text>General Gore Sailing</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 1/8" Page="38" Title="">
+      <SceneProperties Length="2 1/8" Page="45" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3334,7 +3883,7 @@ THE PLAYER must</Text>
       <Text AdornmentStyle="-1">Night-spiration</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 2/8" Page="41" Title="">
+      <SceneProperties Length="2 2/8" Page="48" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3528,7 +4077,7 @@ THE PLAYER must</Text>
       <Text>CUT TO BLACK.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5" Page="43" Title="">
+      <SceneProperties Length="5" Page="50" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="DAPHNE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3906,7 +4455,7 @@ THE PLAYER must</Text>
       <Text>The night fades to inky black peace.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 2/8" Page="48" Title="">
+      <SceneProperties Length="2 2/8" Page="55" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4106,7 +4655,7 @@ THE PLAYER must</Text>
       <Text>Daytime Duet</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="9 4/8" Page="51" Title="">
+      <SceneProperties Length="9 4/8" Page="58" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4937,7 +5486,7 @@ THE PLAYER must</Text>
       <Text>General Gore combat: Floundering Whale</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 3/8" Page="61" Title="">
+      <SceneProperties Length="4 3/8" Page="68" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5313,7 +5862,7 @@ THE PLAYER must</Text>
       <Text>A Breathless Encounter</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="66" Title="">
+      <SceneProperties Length="2 3/8" Page="73" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5529,7 +6078,7 @@ THE PLAYER must</Text>
       <Text>Lark sighs. She looks up to the stars. She looks down at the crimson water. Lark walks slowly into her Captain’s Quarters and closes the door.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="8 7/8" Page="68" Title="">
+      <SceneProperties Length="8 7/8" Page="75" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6322,9 +6871,9 @@ THE PLAYER must</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="617" Left="720" Mode="Normal" Top="306" Width="912"/>
+  <WindowState Height="1001" Left="492" Mode="Normal" Top="61" Width="1230"/>
 
-  <TextState Scaling="75" Selection="2364,2364" ShowInvisibles="No"/>
+  <TextState Scaling="75" Selection="21722,21723" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -6532,6 +7081,7 @@ THE PLAYER must</Text>
       <Character>A`</Character>
       <Character>Giuno</Character>
       <Character>Nettuno</Character>
+      <Character>Red Siren</Character>
     </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
@@ -6562,6 +7112,7 @@ THE PLAYER must</Text>
       <Location>ISLAND OF SCRAP</Location>
       <Location>THE GORE (DINGY)- MIDNIGHT</Location>
       <Location>GORE (BEGINNINGS OF PIRE'S COVE)</Location>
+      <Location>STORM'S RESPITE</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -6904,6 +7455,7 @@ THE PLAYER must</Text>
     <Member Actor="Man 1" Character="A`"/>
     <Member Actor="Man 1" Character="Giuno"/>
     <Member Actor="Man 1" Character="Nettuno"/>
+    <Member Actor="" Character="Red Siren"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -6916,6 +7468,7 @@ THE PLAYER must</Text>
 
   <CharacterHighlighting>
     <Character Color="#FFFFFFFFFFFF" Name="ALORA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="BLUE SIREN" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="CAPTAIN HARDTACK" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="DAPHNE" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="FIRST MATE" Visible="No"/>
@@ -6961,7 +7514,7 @@ THE PLAYER must</Text>
 
   <DisplayBoards>
     <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
-    <DisplayBoard Height="75" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="1120" ZoomLevel="56.000"/>
+    <DisplayBoard Height="75" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="328,0" Type="StoryMap" Width="1488" ZoomLevel="74.400"/>
   </DisplayBoards>
 
   <Writers/>
