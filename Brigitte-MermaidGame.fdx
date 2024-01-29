@@ -1463,9 +1463,38 @@ THE PLAYER must</Text>
       <Text AdornmentStyle="-1">Alora</Text>
       <Text> positions herself at its stern.</Text>
     </Paragraph>
-    <Paragraph Type="End of Act">
-      <Text>(end)</Text>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="17" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text AdornmentStyle="-1">MINIGame</Text>
+      <Text> Transition 1</Text>
     </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A young Lark wedges herself into a corner on the Whimpering Whale.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She produces a pairing knife and a tiny wooden ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player drags and swipes the mouse to carve into the boat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tiny clicks produce tiny decorative details- a feather like texture along the hull of the wooden ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lark flips the boat to the side. The Whale hits a sudden wave- jostling Lark and sending the tiny boat over the Whale’s railing and into the sea.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Scene/mini game ends on the Whale leaving the tiny boat behind.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The tiny boat is still- then perks up and floats after the boat- as if it were pulled by an invisible string.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Thunder Claps- scene transitions.</Text>
+    </Paragraph>
+    <Paragraph Type="Action"/>
     <Paragraph Type="New Act">
       <Text>Storm Escape</Text>
     </Paragraph>
@@ -3143,57 +3172,56 @@ THE PLAYER must</Text>
       <SceneProperties Length="5/8" Page="39" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text Color="#6363A7A7EFEF">IF </Text>
-      <Text AdornmentStyle="-1" Color="#6363A7A7EFEF">MINIGame</Text>
-      <Text Color="#6363A7A7EFEF"> Transitions</Text>
+      <Text AdornmentStyle="-1">MINIGame</Text>
+      <Text> Transition 2</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1" Color="#6363A7A7EFEF">Alora</Text>
-      <Text Color="#6363A7A7EFEF">, </Text>
-      <Text AdornmentStyle="-1" Color="#6363A7A7EFEF">Saoirse</Text>
-      <Text Color="#6363A7A7EFEF">, and Lark root through scrap to build the dingy. Lark arranges cards with scrap on them. </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>, </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>, and Lark root through scrap to build the dingy. Lark arranges cards with scrap on them. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text Color="#6363A7A7EFEF">THE PLAYER arranges cards two at a time, building the ship layer by layer until it is complete. </Text>
+      <Text>THE PLAYER arranges cards two at a time, building the ship layer by layer until it is complete. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text Color="#6363A7A7EFEF">If Player chooses wrong options- that stage of the </Text>
-      <Text AdornmentStyle="-1" Color="#6363A7A7EFEF">minigame</Text>
-      <Text Color="#6363A7A7EFEF"> fails- that portion of the ship collapses. </Text>
+      <Text>If Player chooses wrong options- that stage of the </Text>
+      <Text AdornmentStyle="-1">minigame</Text>
+      <Text> fails- that portion of the ship collapses. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text Color="#6363A7A7EFEF">As the game goes on- the sun moves across the sky until dark. </Text>
+      <Text>As the game goes on- the sun moves across the sky until dark. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text Color="#6363A7A7EFEF">While assembling cards, PLAYER must also click on the right hand side of the screen repeatedly: </Text>
-      <Text AdornmentStyle="-1" Color="#6363A7A7EFEF">Alora</Text>
-      <Text Color="#6363A7A7EFEF"> hammers all pieces into place. </Text>
+      <Text>While assembling cards, PLAYER must also click on the right hand side of the screen repeatedly: </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> hammers all pieces into place. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1" Color="#6363A7A7EFEF">Saoirse</Text>
-      <Text Color="#6363A7A7EFEF"> throws each piece into the desired place. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> throws each piece into the desired place. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text Color="#6363A7A7EFEF">The ship is complete.</Text>
+      <Text>The ship is complete.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text Color="#6363A7A7EFEF"> </Text>
-      <Text AdornmentStyle="-1" Color="#6363A7A7EFEF">Alora</Text>
-      <Text Color="#6363A7A7EFEF"> chest bumps Lark- sending her flying. </Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> chest bumps Lark- sending her flying. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1" Color="#6363A7A7EFEF">Saoirse</Text>
-      <Text Color="#6363A7A7EFEF"> grimaces and gives a thumbs up. She grabs a bucket of paint, smiles, and hoists it up to the deck.</Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> grimaces and gives a thumbs up. She grabs a bucket of paint, smiles, and hoists it up to the deck.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text Color="#6363A7A7EFEF"> While Lark looks over the boat, </Text>
-      <Text AdornmentStyle="-1" Color="#6363A7A7EFEF">Alora</Text>
-      <Text Color="#6363A7A7EFEF"> and </Text>
-      <Text AdornmentStyle="-1" Color="#6363A7A7EFEF">Saoirse</Text>
-      <Text Color="#6363A7A7EFEF"> throw an old bathtub filled with water onto the deck. Its weight splinters the deck- but it’s sturdy. </Text>
+      <Text> While Lark looks over the boat, </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> and </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> throw an old bathtub filled with water onto the deck. Its weight splinters the deck- but it’s sturdy. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text Color="#6363A7A7EFEF">Lark is mortified.</Text>
+      <Text>Lark is mortified.</Text>
     </Paragraph>
     <Paragraph Type="New Act">
       <Text>Dinner on the dingy</Text>
@@ -4150,7 +4178,56 @@ THE PLAYER must</Text>
       <Text>Lark exhales. She settles back into the chair feeling reassured.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5 4/8" Page="50" Title="">
+      <SceneProperties Length="5/8" Page="50" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text AdornmentStyle="-1">MINIGame</Text>
+      <Text> Transition 3</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A young </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> gets a lesson in using her siren song.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She sits on a rock with an older Siren (Same who spoke to her in Storm’s Respite)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The older Siren begins. She points to an abandoned fishing boat. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The boat is made of five colors.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Like a game of Simon Says- the older Siren sings notes reflected by colors in a sequence.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> must match the sequence correctly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sequence gets harder after each round.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Each Player failure results in </Text>
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> singing a very sour note.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At the end of the game- the older siren’s song has pulled the boat towards her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Alora</Text>
+      <Text> is out of breath. She sings one more note in a last ditch effort.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A boot flies off of the ship and hits her in the gut.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The older siren laughs.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="5 4/8" Page="51" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5798,11 +5875,68 @@ THE PLAYER must</Text>
     <Paragraph Type="Dialogue">
       <Text>Glad it’s appreciated.</Text>
     </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="5/8" Page="71" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text AdornmentStyle="-1">MINIGame</Text>
+      <Text> Transition 4</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A young </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> swims through an underwater field of growing plants. The water is a bright pink.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Behind her, other Summer Maids use Fiber to grow plants.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>One group is fooling around- growing two great vines into arms- and arm wrestling them. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> is blank faced.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player clicks the stem </Text>
+      <Text AdornmentStyle="-1">infront</Text>
+      <Text> of her. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> cuts it, bags it, and moves onto the next plant.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Another group chat- as they easily manipulate the environment- beautiful flowers bloom out of the sea floor.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player clicks the stem </Text>
+      <Text AdornmentStyle="-1">infront</Text>
+      <Text> of </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>. She cuts it, bags it, and moves onto the next plant.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>One more final group drifts over a field of dying grass. As they float overhead- the grass turns to a rich emerald green.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player clicks the stem </Text>
+      <Text AdornmentStyle="-1">infront</Text>
+      <Text> of </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>. She cuts it, bags it, and moves onto the next plant.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At the next plant. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> stops. She turns around- sees the creation and magic behind her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She picks up her back and swims off- dejected. </Text>
+    </Paragraph>
     <Paragraph Type="New Act">
       <Text>Daytime Duet</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="9 4/8" Page="72" Title="">
+      <SceneProperties Length="9 5/8" Page="73" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5821,21 +5955,23 @@ THE PLAYER must</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>Ext. Gore (beginnings of Seal’s point cove) - day</Text>
+      <Text>Ext. Gore (Seal’s point cove) - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Saoirse</Text>
       <Text>, </Text>
       <Text AdornmentStyle="-1">Alora</Text>
-      <Text>, and Lark are all gathered around a great unfinished ship docked in a shallow cove of clear water. The </Text>
+      <Text>, and Lark are all gathered around a great pile of ship parts docked in a shallow cove of clear water. The </Text>
       <Text AdornmentStyle="-1">Pire</Text>
-      <Text>, the great volcano, is just days away. Large piles of scrap sandwich the ship on both sides. </Text>
+      <Text>, the great volcano, is just days away. Large piles of scrap sandwich the ship on both sides. Maria’s order had arrived at Seal’s Point. </Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Saoirse</Text>
       <Text> sighs. </Text>
       <Text AdornmentStyle="-1">Alora</Text>
-      <Text> and Lark work diligently to construct the final iteration of The Gore: a great galleon. </Text>
+      <Text> and Lark work diligently to construct the final iteration of The Gore: a great galleon. Residents of Seal’s Point run over to see Lark, they chat- inaudible to </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Saoirse</Text>
@@ -6631,7 +6767,7 @@ THE PLAYER must</Text>
       <Text>General Gore combat: Floundering Whale</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 3/8" Page="82" Title="">
+      <SceneProperties Length="4 3/8" Page="83" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7006,7 +7142,7 @@ THE PLAYER must</Text>
       <Text>Rest and Repair</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5" Page="87" Title="">
+      <SceneProperties Length="5" Page="88" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7440,7 +7576,7 @@ THE PLAYER must</Text>
       <Text>A Breathless Encounter</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="92" Title="">
+      <SceneProperties Length="2 3/8" Page="93" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7656,7 +7792,7 @@ THE PLAYER must</Text>
       <Text>Lark sighs. She looks up to the stars. She looks down at the crimson water. Lark walks slowly into her Captain’s Quarters and closes the door.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="12 2/8" Page="94" Title="">
+      <SceneProperties Length="12 2/8" Page="95" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8741,7 +8877,7 @@ THE PLAYER must</Text>
 
   <WindowState Height="985" Left="0" Mode="Normal" Top="94" Width="1000"/>
 
-  <TextState Scaling="75" Selection="39312,39312" ShowInvisibles="No"/>
+  <TextState Scaling="75" Selection="74174,74182" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -8993,6 +9129,9 @@ THE PLAYER must</Text>
       <Location>SATURN SEAS</Location>
       <Location>TAIL'S END</Location>
       <Location>IF MINIGAME TRANSITIONS</Location>
+      <Location>MINIGAME TRANSITION 1</Location>
+      <Location>MINIGAME TRANSITION 3</Location>
+      <Location>MINIGAME TRANSITION 4</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -9336,14 +9475,14 @@ THE PLAYER must</Text>
     <Member Actor="Man 1" Character="Giuno"/>
     <Member Actor="Man 1" Character="Nettuno"/>
     <Member Actor="Man 1" Character="Red Siren"/>
-    <Member Actor="" Character="Twin 1"/>
-    <Member Actor="" Character="TWIN 2"/>
-    <Member Actor="" Character="Twin 3"/>
-    <Member Actor="" Character="M"/>
-    <Member Actor="" Character="MAria"/>
-    <Member Actor="" Character="SAILOR"/>
-    <Member Actor="" Character="CRASH"/>
-    <Member Actor="" Character="Lq"/>
+    <Member Actor="Man 1" Character="Twin 1"/>
+    <Member Actor="Man 1" Character="TWIN 2"/>
+    <Member Actor="Man 1" Character="Twin 3"/>
+    <Member Actor="Man 1" Character="M"/>
+    <Member Actor="Man 1" Character="MAria"/>
+    <Member Actor="Man 1" Character="SAILOR"/>
+    <Member Actor="Man 1" Character="CRASH"/>
+    <Member Actor="Man 1" Character="Lq"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -9476,32 +9615,49 @@ THE PLAYER must</Text>
     <ChartOptions Identifier="InclusivityAnalysis">
       <FilterSets>
         <FilterSet Default="Yes">
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="Role">
             <Match></Match>
           </Filter>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
         </FilterSet>
         <FilterSet>
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="">
             <Match></Match>
           </Filter>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
         </FilterSet>
       </FilterSets>
     </ChartOptions>
   </Characters>
 
-  <ScriptNotes/>
+  <ScriptNotes>
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T214759" DateTime="20240126T214754" Id="2" Name="" Range="17309,17970" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="8.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">MiniGame 1</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="8.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </ScriptNote>
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T210655" DateTime="20240126T210648" Id="1" Name="" Range="39081,39081" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="8.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Minigame</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T215837" DateTime="20240126T215832" Id="3" Name="" Range="52420,53143" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="8.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Minigame 3</Text>
+      </Paragraph>
+    </ScriptNote>
+  </ScriptNotes>
 
   <Images/>
 
