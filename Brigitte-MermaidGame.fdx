@@ -972,7 +972,7 @@ THE PLAYER must</Text>
       <Text>LARK</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Ok also true.</Text>
+      <Text>Absolutely.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">SAOIRSE</Text>
@@ -1988,18 +1988,7 @@ THE PLAYER must</Text>
     <Paragraph Type="Action">
       <Text>The Player continues to swim and move.</Text>
     </Paragraph>
-    <Paragraph Type="Character">
-      <Text>LARK</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Hm. Well when we find Daphne I’m sure we’ll get that sorted too.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">ALORA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Mhm I’m sure.</Text>
-    </Paragraph>
+    <Paragraph Type="Dialogue"/>
     <Paragraph Type="Action">
       <Text>The group reaches a sandy island. The island itself decorated and terraformed. A large tide pool dots the center surrounded by stones and heaps of plant life.</Text>
     </Paragraph>
@@ -9350,7 +9339,7 @@ THE PLAYER must</Text>
 
   <WindowState Height="985" Left="0" Mode="Normal" Top="94" Width="1000"/>
 
-  <TextState Scaling="75" Selection="75870,75870" ShowInvisibles="No"/>
+  <TextState Scaling="75" Selection="44163,44163" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -10114,18 +10103,18 @@ THE PLAYER must</Text>
   </Characters>
 
   <ScriptNotes>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T214759" DateTime="20240126T214754" Id="2" Name="" Range="14421,15082" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T214759" DateTime="20240126T214754" Id="2" Name="" Range="14419,15080" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">MiniGame 1</Text>
       </Paragraph>
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
     </ScriptNote>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T210655" DateTime="20240126T210648" Id="1" Name="" Range="42282,42282" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T210655" DateTime="20240126T210648" Id="1" Name="" Range="42191,42191" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Minigame</Text>
       </Paragraph>
     </ScriptNote>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T215837" DateTime="20240126T215832" Id="3" Name="" Range="57777,58500" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T215837" DateTime="20240126T215832" Id="3" Name="" Range="57686,58409" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Minigame 3</Text>
       </Paragraph>
