@@ -17,12 +17,10 @@
       <Text>The call of seagulls echo across the open, scarlet red sea.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Looking closer at the water- swirling clouds of red- blood billow and disperse underneath the surface.</Text>
+      <Text>In the sea below, swirling clouds of red blood billow and disperse underneath the surface.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The volcano exhales- a large </Text>
-      <Text AdornmentStyle="-1">swaft</Text>
-      <Text> of steam floats out.</Text>
+      <Text>The volcano exhales- a large waft of steam floats out.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The music darkens- keyed by a foghorn-like transition.</Text>
@@ -47,10 +45,10 @@
       <Text>’ cements deeper into darkness.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The music turns more sinister as Daphne wields more stars. Daphne grows a crown, a cape made of galaxy matter.</Text>
+      <Text>The music turns more sinister as Daphne wields more stars. Daphne grows a crown and a cape made of galaxy matter.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Her face cracks- a wicked smile forming from the negative space.</Text>
+      <Text>Her face cracks- a wicked smile forming from the dark negative space.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>As Daphne’s power grows, </Text>
@@ -76,7 +74,7 @@
       <Text>Daphne sinks lower and lower finally breeching where the water’s surface meets the sky.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The blood red ocean bubbles where she passes.</Text>
+      <Text>The ocean bubbles where she passes.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Syrus</Text>
@@ -115,7 +113,7 @@
     <Paragraph Type="Action">
       <Text>THE PLAYER controls </Text>
       <Text AdornmentStyle="-1">SAOIRSE</Text>
-      <Text>, a Summer Maid with ruby scales glittered along a long articulated tail. The tail ends in a flowing fin like a betta. Her ears are long and elf-like, they twitch and rotate towards </Text>
+      <Text>, a Summer Maid with ruby scales glittered along a long articulated tail. The tail ends in a flowing fin like a betta fish. Her ears are long and elf-like, they twitch and rotate towards </Text>
       <Text AdornmentStyle="-1">Alora</Text>
       <Text> as she swims. Her torso is small but muscular. Her eyes are reptilian with a red iris and a black pupil that dilates and responds to the light. Her hair is a flowing blonde with faint red stains from the middle to her ends. She ties it loosely in three parts like low pigtails with a central grouping at the top.</Text>
     </Paragraph>
@@ -213,7 +211,7 @@
       <Text AdornmentStyle="-1">Alora</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>(laughing) I know! Here, just a little further and we can see some action.</Text>
+      <Text>(laughing) I know! Here, just a little further and we can see better.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Alora</Text>
@@ -283,7 +281,7 @@
       <Text AdornmentStyle="-1">ALORA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Oh I’m sure you have, its been sailing through Storms for months now, of its own volition, mind you! We got sick and tired of it.</Text>
+      <Text>Oh I’m sure you have, its been sailing through Storms for months now. Of its own volition, mind you! We got sick and tired of it.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>A siren torpedos towards the deck. She snaps at a sailor, catches his foot and plunges back into the sea with the sailor.</Text>
@@ -359,7 +357,7 @@
     <Paragraph Type="Action">
       <Text>He laughs, his eyes wide. The FIRST MATE barrels through the door, dragging </Text>
       <Text AdornmentStyle="-1">LARKINEON</Text>
-      <Text>, a young sailor with dark hair slicked back with wax, behind him by her jacket collar.</Text>
+      <Text> behind him by her jacket collar. Lark is a young sailor with dark hair slicked back with wax.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>FIrst mate</Text>
@@ -443,7 +441,7 @@
       <Text>You want to go so badly? Fine. Throw her to the ‘maids.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The first mate grabs Lark by the arms. He drags her port side. At the edge, a tiny siren is gnawing at the wood railing. She looks up, smiles sinisterly.</Text>
+      <Text>The first mate grabs Lark by the arms. He drags her port side. At the edge, a tiny siren is gnawing at the wood railing. The siren looks up, she smiles sinisterly.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>FirST MATE</Text>
@@ -949,9 +947,6 @@ THE PLAYER must</Text>
     <Paragraph Type="Dialogue">
       <Text>Yeah, it may be for the best.</Text>
     </Paragraph>
-    <Paragraph Type="Action">
-      <Text>HERE!</Text>
-    </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">ALORA</Text>
     </Paragraph>
@@ -1167,9 +1162,9 @@ THE PLAYER must</Text>
       <Text>I’ll do my best over here.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Lark jerks nervously, the raft shutters as </Text>
+      <Text>The raft shudders as </Text>
       <Text AdornmentStyle="-1">Alora</Text>
-      <Text> positions herself at its stern.</Text>
+      <Text> positions herself at its stern. Lark tenses and tries to rebalance.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="4/8" Page="14" Title="">
@@ -9337,7 +9332,7 @@ THE PLAYER must</Text>
 
   <WindowState Height="985" Left="171" Mode="Normal" Top="94" Width="1000"/>
 
-  <TextState Scaling="75" Selection="93005,93005" ShowInvisibles="No"/>
+  <TextState Scaling="75" Selection="14428,14428" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -10104,18 +10099,18 @@ THE PLAYER must</Text>
   </Characters>
 
   <ScriptNotes>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T214759" DateTime="20240126T214754" Id="2" Name="" Range="14419,15080" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T214759" DateTime="20240126T214754" Id="2" Name="" Range="14429,15090" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">MiniGame 1</Text>
       </Paragraph>
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
     </ScriptNote>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T210655" DateTime="20240126T210648" Id="1" Name="" Range="42191,42191" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T210655" DateTime="20240126T210648" Id="1" Name="" Range="42201,42201" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Minigame</Text>
       </Paragraph>
     </ScriptNote>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T215837" DateTime="20240126T215832" Id="3" Name="" Range="57686,58409" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T215837" DateTime="20240126T215832" Id="3" Name="" Range="57696,58419" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Minigame 3</Text>
       </Paragraph>
