@@ -6204,7 +6204,7 @@ THE PLAYER must</Text>
       <Text>Daytime Duet</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="9 5/8" Page="76" Title="">
+      <SceneProperties Length="9 7/8" Page="76" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6221,6 +6221,9 @@ THE PLAYER must</Text>
           <CharacterArcBeat Name="SAOIRSE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
+          <CharacterArcBeat Name="SYRUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
       <Text>Ext. Gore (Seal’s point cove) - day</Text>
@@ -6229,7 +6232,7 @@ THE PLAYER must</Text>
       <Text AdornmentStyle="-1">Saoirse</Text>
       <Text>, </Text>
       <Text AdornmentStyle="-1">Alora</Text>
-      <Text>, and Lark are all gathered around a great pile of ship parts docked in a shallow cove of clear water. The </Text>
+      <Text>, and Lark are all gathered around a great pile of ship parts docked in a shallow cove of pink water. The </Text>
       <Text AdornmentStyle="-1">Pire</Text>
       <Text>, the great volcano, is just days away. Large piles of scrap sandwich the ship on both sides. Maria’s order had arrived at Seal’s Point. </Text>
     </Paragraph>
@@ -6388,7 +6391,7 @@ THE PLAYER must</Text>
       <Text> pulses through the shallow sea. Her face is scrunched up in frustration.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The water changes from crystal clear to a welcoming teal.</Text>
+      <Text>The water lightens, a more peach-like hue than the pink waters she left behind.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She reaches a wrecked ship. Its splintered and split wood blocks her path.</Text>
@@ -6501,7 +6504,7 @@ THE PLAYER must</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> stops- she notices the gold. (NOTE: Should Siren Fiber be represented by gold all of the time?)</Text>
+      <Text> stops- she notices the gold. This is Siren Fiber.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">SAOIRSE</Text>
@@ -6649,9 +6652,7 @@ THE PLAYER must</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Sirens are surrounded by </Text>
-      <Text AdornmentStyle="-1">Twim</Text>
-      <Text> artifacts- and even more continue to float towards them.</Text>
+      <Text>The Sirens are surrounded by Twin artifacts- and even more continue to float towards them.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>They spot </Text>
@@ -6716,68 +6717,89 @@ THE PLAYER must</Text>
       <Text AdornmentStyle="-1">NeTTUNO</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Summer Maid.. </Text>
+      <Text>Summer Maid! </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> perks up- she’s happy to be recognized.</Text>
+      <Text AdornmentStyle="-1">Saoirse’s</Text>
+      <Text> ears flick behind her like a cat. They hug close to her head. She forces a smile.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">SaOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Yeah! We’re pretty similar, just from over in the red waters.</Text>
+      <Text>Yup- you’ll usually see us more...</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> gestures to the treasure surrounding the duo.</Text>
+      <Text> gestures to south towards the </Text>
+      <Text AdornmentStyle="-1">Pire</Text>
+      <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SaOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>We’re just not as “with it” as you guys are. With Fiber.</Text>
+      <Text>Deeper out. In the red.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Nettuno</Text>
+      <Text> is looking through </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>, fascinated.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">NETTUNO</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Aw are you kidding? The last Summer Maid I saw could split a ship in two.</Text>
+      <Text>Well it’s a pleasure to meet you, red.</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue"/>
+    <Paragraph Type="Action">
+      <Text>He struggles to inch forward on the island towards </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>. His dense shark body is better equipped for water. He extends a hand to her in greeting</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He raises his fist- focusing it between his eyes.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">NETTUNO</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>With just one fist.</Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> smiles, genuinely. She lets her guard fall. She swims ahead close to the island and takes the hand.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Giuno</Text>
-      <Text> rolls her eyes. Then she stops. She has an idea.</Text>
+      <Text> stretches. She flops to her side, exhausted.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">GiUNO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Have you happened to come across a crown in these waters, red?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SaOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Crown? Is that what you guys are after?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> gestures to the mountains of treasure that have accumulated around the island.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">NeTTUNO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh yes! We are tasked with retrieving a Twin-made crown. This particular crown incrusted with ancient Black Glass.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">GIUNO</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Actually- we could use some muscle if you have it.</Text>
+      <Text>We struck down a great ship for this crown. But it is still lost to us.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text AdornmentStyle="-1">NeTTUNO</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Oh plenty.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Giuno</Text>
-      <Text> motions to the treasure.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">GIUNO</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>We’ve been trying to bring in a statue- completely gold by the way. But we think it might be too heavy for us. Hasn’t come up yet anyways.</Text>
+      <Text>If you are to retrieve it- you can have your pick of our horde here.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">SAOIRSE</Text>
@@ -6786,16 +6808,10 @@ THE PLAYER must</Text>
       <Text>I can get that for you no problem!</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">NETTUNO</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Aw really? That’s so nice! Hell, you can take home a chunk of it if you like!</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
       <Text AdornmentStyle="-1">GiUNO</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Yeah! We just need the head really.</Text>
+      <Text>Yeah! We can finally return home.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">SAOIRSE</Text>
@@ -6819,6 +6835,12 @@ THE PLAYER must</Text>
     <Paragraph Type="Action">
       <Text>The Player swims around.</Text>
     </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Obsidian crown.. Should look like Lark’s necklace..</Text>
+    </Paragraph>
     <Paragraph Type="Action">
       <Text>Interacting with shaking sand piles lets </Text>
       <Text AdornmentStyle="-1">Saoirse</Text>
@@ -6829,196 +6851,172 @@ THE PLAYER must</Text>
       <Text> can find chests, skeletons, and weapons.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Player reaches the statue.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>A golden hand reaches out of the sand- pointing. </Text>
+      <Text>The Player reaches a strange pile of sand. Instead of revealing itself it only twitches. The object underneath is being pulled by two opposing forces.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> pulls.</Text>
+      <Text> digs.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Player is prompted to button mash.</Text>
+      <Text>The sand falls from the crown. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The statue emerges slowly.</Text>
+      <Text>The crown itself is a tangle of silver, tiny flecks of Obsidian fill every crevice of the crown. It sparkles like glitter. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The head reveals.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>As </Text>
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> looks at it- the face suddenly morphs.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The statue’s face is Lark’s.</Text>
+      <Text>The crown continues twitching. The gold essence of the Siren song caresses the silver frame, but the obsidian shudders- each piece yanks in tandem, trying to break free from the Twin-made silver containing it.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> stops. She gasps, placing her hands over her mouth.</Text>
+      <Text> reaches out cautiously. Her hand shakes.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She shrinks into herself. She rests by the base of the statue.</Text>
+      <Text>She touches the crown. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Player is prompted </Text>
-      <Text AdornmentStyle="-1">tomclick</Text>
-      <Text> and drag to shimmy the statue free from the sand.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>What am I supposed to be doing.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Lark’s voice enters the conversation. The statue’s lips don’t move.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>LARK</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>What do you want to be doing.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I just want to help.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>LARK</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I think you’re helping now.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The Player brushes away more sand.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I could just pull this statue out and be done with it.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>LARK</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>It would be easy.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>But I’m taking my time.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The Player reaches the statue’s chest.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>And I like that. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>She pauses.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I’m no good at Fiber. I don’t need to focus, I don’t need to think.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>LARK</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>...</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I’m the doer! I just do things and pull things and break things..</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> traces her hand along the golden statue.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>LARK</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Do your thoughts need such a purpose.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>...</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>LARK </Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>(The voice morphs, it’s like a different woman)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Must you chose between the mindful and the mindless?</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Unknown to </Text>
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> or the Player- this is </Text>
+      <Text>In a million voices, the words of </Text>
       <Text AdornmentStyle="-1">Syrus</Text>
-      <Text> talking- slayer of Daphne, friend of Daphne, creator of the Heartstring Lance)</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> stops. Her eyes wide. What she thought was an inner voice is scarily real.</Text>
+      <Text> burst into </Text>
+      <Text AdornmentStyle="-1">Saoirse’s</Text>
+      <Text> mind.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SYRUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Lark?</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>She glances to the statue. It has its original face.</Text>
+      <Text>DAPHNE! DAPHNE!</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> wastes no more time, but she also doesn’t resort to her original plan of forcing the statue out.</Text>
+      <Text> recoils, she drops the crown. She clenches her hands up to her long ears. She tenses and writhes from the pain radiating through her head.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Player is prompted to twist off the hand of the statue and the head.</Text>
+      <Text>The crown lurches. It inches towards </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text>. The obsidian fragments pulling along the crown as if each fragment contained a tiny creature slamming their weight against the glass enclosure.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Player does so by clicking and dragging.</Text>
+      <Text>The Player is prompted to button mash. </Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> takes the head and hand. She releases the head- and it floats up with the other artifacts being drawn in by the song.</Text>
+      <Text> recovers. She twirls her tail, trying to regain herself and swim away from the crown.</Text>
     </Paragraph>
     <Paragraph Type="Action">
+      <Text>The Player is in control.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The crown projects its movements. It tilts left or right- determining where it will jump. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player must move the opposite direction.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>If the crown hits </Text>
       <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> smiles, she swims to the surface. She calls out to the duo.</Text>
+      <Text>- The background behind her changes for a moment. </Text>
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> writhes and recoils in pain. The background becomes a series of scenes depicting Daphne’s fall.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Syrus</Text>
+      <Text> stabs Daphne, obsidian splintering and flying everywhere like falling stars.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Daphne sinks- blood billowing and clouding the water.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The crown begins to slow. The movements become easier to predict. It teeters along, each fragment is falling out of sync.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text AdornmentStyle="-1">SYRUS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I sent it your way! </Text>
+      <Text>Daphne BLEED. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The crown projects its movements. It tilts left or right- determining where it will jump. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Player must move the opposite direction.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The crown slows to a stop. The obsidian fragments grow dull and lifeless.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> catches her breath. Her eyes are wide and her ears pinned to the sides of her head.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The golden siren song engulfs the crown. It drifts without a fight towards the sirens.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> watches it go.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She swims closely after it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Past her head, a shiny compass is caught in the song.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> slows, she reaches out, grabs the compass and continues along.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She breaches at the island.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="-1">NETTUNO</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Thanks red! Happy travels!</Text>
+      <Text>Aha yes! This is it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He picks up the crown. It dangles lifelessly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">GIUNO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thank you for pulling it loose for us. Like we said, you’re free to take whatever you wish!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1">Saoirse</Text>
+      <Text> is a million miles away. She stares </Text>
+      <Text AdornmentStyle="-1">stright</Text>
+      <Text> through the pair.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What? Oh, yes. I’m taking this back with me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She shows the compass.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I should head back.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She shakes a little more back to reality.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">SAOIRSE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But happy to help! And nice to meet both of you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="-1">NETTUNO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It was a pleasure, red. Happy travels!</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1">Saoirse</Text>
@@ -7028,13 +7026,13 @@ THE PLAYER must</Text>
       <Text>Her gaze never leaves the sea floor. Her mind- deep in thoughts.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She silently swims off screen- back towards the Gore with her catch and the golden hand in tow.</Text>
+      <Text>She silently swims off screen- back towards the Gore with her catch and the golden compass in tow.</Text>
     </Paragraph>
     <Paragraph Type="New Act">
       <Text>General Gore Sailing</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 1/8" Page="86" Title="">
+      <SceneProperties Length="2 1/8" Page="87" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7229,7 +7227,7 @@ THE PLAYER must</Text>
       <Text>General Gore combat: Floundering Whale</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 3/8" Page="89" Title="">
+      <SceneProperties Length="4 3/8" Page="90" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7604,7 +7602,7 @@ THE PLAYER must</Text>
       <Text>Rest and Repair</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5" Page="94" Title="">
+      <SceneProperties Length="5" Page="95" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8038,7 +8036,7 @@ THE PLAYER must</Text>
       <Text>A Breathless Encounter</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="99" Title="">
+      <SceneProperties Length="2 3/8" Page="100" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8254,7 +8252,7 @@ THE PLAYER must</Text>
       <Text>Lark sighs. She looks up to the stars. She looks down at the crimson water. Lark walks slowly into her Captain’s Quarters and closes the door.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="12 2/8" Page="101" Title="">
+      <SceneProperties Length="12 2/8" Page="102" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9337,9 +9335,9 @@ THE PLAYER must</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="985" Left="0" Mode="Normal" Top="94" Width="1000"/>
+  <WindowState Height="985" Left="171" Mode="Normal" Top="94" Width="1000"/>
 
-  <TextState Scaling="75" Selection="44163,44163" ShowInvisibles="No"/>
+  <TextState Scaling="75" Selection="93005,93005" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -9556,6 +9554,7 @@ THE PLAYER must</Text>
       <Character>SAILOR</Character>
       <Character>CRASH</Character>
       <Character>Lq</Character>
+      <Character>SYRUS</Character>
     </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
@@ -9945,6 +9944,7 @@ THE PLAYER must</Text>
     <Member Actor="Man 1" Character="SAILOR"/>
     <Member Actor="Man 1" Character="CRASH"/>
     <Member Actor="Man 1" Character="Lq"/>
+    <Member Actor="" Character="SYRUS"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -9969,6 +9969,7 @@ THE PLAYER must</Text>
     <Character Color="#FFFFFFFFFFFF" Name="NETTUNO" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="SAILOR" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="SAOIRSE" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="SYRUS" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="TWIN 1" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="TWIN 2" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="TWIN 3" Visible="No"/>
@@ -10077,25 +10078,25 @@ THE PLAYER must</Text>
     <ChartOptions Identifier="InclusivityAnalysis">
       <FilterSets>
         <FilterSet Default="Yes">
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="Role">
             <Match></Match>
           </Filter>
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
         </FilterSet>
         <FilterSet>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="">
             <Match></Match>
           </Filter>
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
         </FilterSet>
       </FilterSets>
