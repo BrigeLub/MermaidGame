@@ -50,29 +50,28 @@
       <Text>Her face cracks- a wicked smile forming from the dark negative space.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>As Daphne’s power grows, Syrus holds her head in her hands. Behind her back she produces a lance. The lance shimmers with the stars.</Text>
+      <Text>As Daphne’s power grows, Syrus holds her head in her hands. Behind her back she produces a lance composed of stars. The lance shimmers.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Stars drip from Syrus’ face like tears.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Syrus swings- she plunges the lance into Daphne.</Text>
+      <Text>Syrus swings. She plunges the lance into Daphne.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Daphne shrieks.</Text>
+      <Text>Daphne shrieks- it sounds like a distant firework launch. She throws her hands to her pierced side.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The lance shatters into a thousand stars that shoot past Syrus like shrapnel.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Daphne sinks lower and lower finally breeching where the water’s surface meets the sky.</Text>
+      <Text>Daphne bows closer into herself, cradling the wound. She sinks, leaving behind her a smear of black void. She falls lower and lower finally breeching where the water’s surface meets the sky.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The ocean bubbles where she passes.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Syrus</Text>
-      <Text> fades into the night- stars shooting off of her image.</Text>
+      <Text>Syrus is frozen in her attack stance. Only the subtle movement of the silhouette betrays her heavy breathing. Her image fades into the night- stars drifting away. She drops her head down to her chest before fading entirely.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The camera fades to the title card:</Text>
@@ -81,15 +80,11 @@
       <Text AdornmentStyle="-1" Style="Bold">PIRE’S</Text>
       <Text Style="Bold"> REACH</Text>
     </Paragraph>
-    <Paragraph Type="Action"/>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="2" Title="">
-        <SceneArcBeats/>
-      </SceneProperties>
-      <Text Style="Underline+AllCaps">(Reunion and Determination)</Text>
+    <Paragraph Type="Action">
+      <Text>The text is bold against a moving background of pink seawater and foam.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1" Page="2" Title="">
+      <SceneProperties Length="1 1/8" Page="2" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -102,45 +97,31 @@
       <Text>ExT. mid-level ocean - dusk</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Two mermaids swim side by side through a turbulent sea. They cling close to the rock pillars that pierce to the surface. </Text>
+      <Text>Two mermaids swim side by side through a turbulent, navy sea. They cling close to rock pillars that pierce to the surface. The sea batters the pillars, threatening to knock them over.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>THE PLAYER controls </Text>
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
-      <Text>, a Summer Maid with ruby scales glittered along a long articulated tail. The tail ends in a flowing fin like a betta fish. Her ears are long and elf-like, they twitch and rotate towards </Text>
-      <Text AdornmentStyle="-1">Alora</Text>
-      <Text> as she swims. Her torso is small but muscular. Her eyes are reptilian with a red iris and a black pupil that dilates and responds to the light. Her hair is a flowing blonde with faint red stains from the middle to her ends. She ties it loosely in three parts like low pigtails with a central grouping at the top.</Text>
+      <Text>THE PLAYER controls SAOIRSE, a Summer Maid with ruby scales glittered along a long articulated tail. The tail ends in a flowing fin like a betta fish. Her ears are long and elf-like, they twitch and rotate towards the other mermaid as she swims. Saoirse’s torso is small but muscular. Her eyes are reptilian with a red iris and a black pupil that dilates and responds to the light. Her hair is a flowing blonde with faint red stains from the middle to her ends. She ties it loosely in three parts like low pigtails with a central grouping at the top.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>THE PLAYER swims next to </Text>
-      <Text AdornmentStyle="-1">ALORA</Text>
-      <Text>, a Siren with a dusty navy shark-like tail and a large, hooked, dorsal fin. Her dark hair is sliced in three parts- the top cut short like a mohawk, mimicking a fin, and the two sides longer, cascading down to her shoulders. Her hair is shiny, repelling the water similar to her tail. Her eyes are yellow with large inky pupils.</Text>
+      <Text>THE PLAYER swims next to ALORA, a Siren with a dusty navy shark-like tail and a large, hooked, dorsal fin protruding from her back. Alora’s dark hair is sliced into three parts- the top cut short like a mohawk, mimicking a fin, and the two sides longer, cascading down to her shoulders. Her eyes are yellow with large inky pupils.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Alora</Text>
-      <Text> is taller than </Text>
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text>, but her tail is much less articulated, only bending in a few places and dense with swimming muscles. Where </Text>
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> could glide across land similar to a snake, </Text>
-      <Text AdornmentStyle="-1">Alora</Text>
-      <Text> struggles- her tail only capable of pushing forward like a seal.</Text>
+      <Text>Alora is taller than Saoirse, but Alora’s tail is much less articulated, only bending in a few places and dense with swimming muscles. Where Saoirse could glide across land similar to a snake, Alora struggles, her tail only capable of pushing forward like a seal.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Alora</Text>
-      <Text> powers towards the surface, pokes her head above the water. She submerges her head back under. She smiles, gesturing </Text>
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> upwards.</Text>
+      <Text>Alora powers towards the surface and pokes her head above the water. She flips forward leaving her tail floating like a buoy and submerging her head back under. She smiles, gesturing Saoirse upwards.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Saoirse eyes the aggressive waves warily.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> </Text>
+      <Text>Saoirse </Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>I’m gonna pop a scale over here- </Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>Alora</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>(jokingly)</Text>
@@ -149,24 +130,15 @@
       <Text>What? Can’t keep up anymore, your loveliness?</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Alora’s</Text>
-      <Text> thick shark skin slices through the water.</Text>
+      <Text>Alora falls back into the sea. She rolls her eyes playfully at Saoirse before she bolts away. Alora’s thick shark skin slices through the water.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> whips her tail with difficulty- her ribbony tail catching on </Text>
-      <Text AdornmentStyle="-1">Alora’s</Text>
-      <Text> wake.</Text>
+      <Text>Saoirse whips her tail with difficulty- her ribbony tail catching on Alora’s wake.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> sighs, THE PLAYER is prompted to </Text>
+      <Text>Saoirse sighs, THE PLAYER is prompted to </Text>
       <Text Style="Bold">accelerate</Text>
-      <Text>. </Text>
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> catches up with </Text>
-      <Text AdornmentStyle="-1">Alora</Text>
-      <Text>. Both pop their heads out of the water.</Text>
+      <Text>. Saoirse catches up with Alora. Both pop their heads out of the water.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="1 5/8" Page="3" Title="">
@@ -182,34 +154,32 @@
       <Text>EXT. STORM’S RESPITE SURFACE - DUSK</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Waves bob along the choppy surface, the swirling clouds rush along the eerie gray sky.</Text>
+      <Text>Waves bob along the choppy surface, the dense clouds rush along the eerie gray sky like stampeding cattle.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Alora</Text>
-      <Text> nods excitedly. She gestures to a ship on the horizon.</Text>
+      <Text>Alora nods excitedly. She gestures to a ship on the horizon.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>Alora</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>They call that one </Text>
       <Text Style="Italic">The Whimpering Whale.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text>SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Ew, that’s a terrible name.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">Alora</Text>
+      <Text>Alora</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>(laughing) I know! Here, just a little further and we can see better.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Alora</Text>
-      <Text> leaps out of the water like a dolphin towards the ship.</Text>
+      <Text>Alora leaps out of the water like a dolphin towards the ship.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>PLAYER leaps as well.</Text>
@@ -218,7 +188,7 @@
       <Text>Camera stays watching the surface.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text>SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>(mid jump)</Text>
@@ -9323,9 +9293,9 @@ THE PLAYER must</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="985" Left="24" Mode="Normal" Top="62" Width="1697"/>
+  <WindowState Height="563" Left="20" Mode="Normal" Top="149" Width="679"/>
 
-  <TextState Scaling="100" Selection="862,867" ShowInvisibles="No"/>
+  <TextState Scaling="75" Selection="4814,4814" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -10067,25 +10037,25 @@ THE PLAYER must</Text>
     <ChartOptions Identifier="InclusivityAnalysis">
       <FilterSets>
         <FilterSet Default="Yes">
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="Role">
             <Match></Match>
           </Filter>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
         </FilterSet>
         <FilterSet>
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="">
             <Match></Match>
           </Filter>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
         </FilterSet>
       </FilterSets>
@@ -10093,18 +10063,18 @@ THE PLAYER must</Text>
   </Characters>
 
   <ScriptNotes>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T214759" DateTime="20240126T214754" Id="2" Name="" Range="14871,15532" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T214759" DateTime="20240126T214754" Id="2" Name="" Range="15538,16199" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">MiniGame 1</Text>
       </Paragraph>
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
     </ScriptNote>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T210655" DateTime="20240126T210648" Id="1" Name="" Range="42643,42643" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T210655" DateTime="20240126T210648" Id="1" Name="" Range="43310,43310" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Minigame</Text>
       </Paragraph>
     </ScriptNote>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T215837" DateTime="20240126T215832" Id="3" Name="" Range="58138,58861" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T215837" DateTime="20240126T215832" Id="3" Name="" Range="58805,59528" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Minigame 3</Text>
       </Paragraph>
