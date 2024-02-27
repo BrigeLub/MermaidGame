@@ -5,10 +5,13 @@
     <Paragraph Type="Shot">
       <Text>Ext. the </Text>
       <Text AdornmentStyle="-1">pire</Text>
-      <Text> - night</Text>
+      <Text> - Dawn</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A volcano sits alone on a verdant island of green. The red waves lap at the shore- soaking the greenery.</Text>
+      <Text>A volcano sits alone on a verdant island of green. The red waves lap at the shore- soaking the greenery. A thick blanket of pink foam lingers on the plant-life coating the rocky shoreline. It rests for a moment before drifting back down. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Triumphant and bright music plays signaling a day just beginning. </Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The stars twinkle overhead- a beautiful galaxy of inky black swirls.</Text>
@@ -17,32 +20,28 @@
       <Text>The call of seagulls echo across the open, scarlet red sea.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>In the sea below, swirling clouds of red blood billow and disperse underneath the surface.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The volcano exhales- a large waft of steam floats out.</Text>
+      <Text>The volcano exhales- a large waft of steam floats out and evaporates. The camera follows its path and tilts up to the sky.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The music darkens- keyed by a foghorn-like transition.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The black swirls in the sky move and shift. They form two mermaids- one with long flowing hair and the other with a shark fin.</Text>
+      <Text>In the sky, black swirls of galaxy move and shift. They form two mermaids- one with long flowing hair and the other with a shark fin fixed to her back.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The scene in the sky is similar to a shadow puppet show.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The shark mermaid- </Text>
-      <Text AdornmentStyle="-1">Syrus</Text>
-      <Text> reels back. She touches her hand to the other mermaid.</Text>
+      <Text>The shark mermaid- Syrus pivots to face the other mermaid, her muscular tail lumbering to the side. The stiff fin at the tail’s end flick tiny stars in its wake. She touches her hand to the other mermaid.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Meanwhile the long hair mermaid- Daphne spins. She touches the stars with her hand. She arranges them to her liking. </Text>
+      <Text>Meanwhile the long hair mermaid, Daphne, spins. Her snaking tail whips into a spiral as she turns, its fins frayed like hair. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Her shadow image shimmers, while </Text>
-      <Text AdornmentStyle="-1">Syrus</Text>
-      <Text>’ cements deeper into darkness.</Text>
+      <Text>Daphne touches the stars with her hand. She arranges them to her liking. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Her outline softens, radiating with warm starlight. Syrus’ form is unchanging, dull by comparison.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The music turns more sinister as Daphne wields more stars. Daphne grows a crown and a cape made of galaxy matter.</Text>
@@ -51,24 +50,19 @@
       <Text>Her face cracks- a wicked smile forming from the dark negative space.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>As Daphne’s power grows, </Text>
-      <Text AdornmentStyle="-1">Syrus</Text>
-      <Text> holds her head in her hands. Behind her back she produces a lance. The lance shimmers with the stars.</Text>
+      <Text>As Daphne’s power grows, Syrus holds her head in her hands. Behind her back she produces a lance. The lance shimmers with the stars.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Stars drip from her face like tears.</Text>
+      <Text>Stars drip from Syrus’ face like tears.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Syrus</Text>
-      <Text> swings- she plunges the lance into Daphne.</Text>
+      <Text>Syrus swings- she plunges the lance into Daphne.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Daphne shrieks.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The lance shatters into a thousand stars that shoot past </Text>
-      <Text AdornmentStyle="-1">Syrus</Text>
-      <Text> like shrapnel.</Text>
+      <Text>The lance shatters into a thousand stars that shoot past Syrus like shrapnel.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Daphne sinks lower and lower finally breeching where the water’s surface meets the sky.</Text>
@@ -312,7 +306,7 @@
       <Text>CUT TO:</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="4" Title="">
+      <SceneProperties Length="3/8" Page="5" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>EXT. The WHIMPERING WHALe </Text>
@@ -1170,8 +1164,7 @@ THE PLAYER must</Text>
       <SceneProperties Length="4/8" Page="14" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text AdornmentStyle="-1">MINIGame</Text>
-      <Text> Transition 1</Text>
+      <Text>MINIGame Transition 1</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>A young Lark wedges herself into a corner on the Whimpering Whale.</Text>
@@ -9330,9 +9323,9 @@ THE PLAYER must</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="985" Left="171" Mode="Normal" Top="94" Width="1000"/>
+  <WindowState Height="985" Left="24" Mode="Normal" Top="62" Width="1697"/>
 
-  <TextState Scaling="75" Selection="13936,13936" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="862,867" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -10006,7 +9999,7 @@ THE PLAYER must</Text>
 
   <DisplayBoards>
     <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
-    <DisplayBoard Height="75" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="134,0" Type="StoryMap" Width="1160" ZoomLevel="58.000"/>
+    <DisplayBoard Height="75" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="1658" ZoomLevel="82.900"/>
   </DisplayBoards>
 
   <Writers/>
@@ -10074,25 +10067,25 @@ THE PLAYER must</Text>
     <ChartOptions Identifier="InclusivityAnalysis">
       <FilterSets>
         <FilterSet Default="Yes">
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="Role">
             <Match></Match>
           </Filter>
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
         </FilterSet>
         <FilterSet>
-          <Filter Index="1" Name="Trait" Value="">
-            <Match></Match>
+          <Filter Index="0" Name="Count" Value="MIN">
+            <Match>1</Match>
           </Filter>
           <Filter Index="0" Name="Trait" Value="">
             <Match></Match>
           </Filter>
-          <Filter Index="0" Name="Count" Value="MIN">
-            <Match>1</Match>
+          <Filter Index="1" Name="Trait" Value="">
+            <Match></Match>
           </Filter>
         </FilterSet>
       </FilterSets>
@@ -10100,18 +10093,18 @@ THE PLAYER must</Text>
   </Characters>
 
   <ScriptNotes>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T214759" DateTime="20240126T214754" Id="2" Name="" Range="14429,15090" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T214759" DateTime="20240126T214754" Id="2" Name="" Range="14871,15532" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">MiniGame 1</Text>
       </Paragraph>
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
     </ScriptNote>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T210655" DateTime="20240126T210648" Id="1" Name="" Range="42201,42201" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T210655" DateTime="20240126T210648" Id="1" Name="" Range="42643,42643" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Minigame</Text>
       </Paragraph>
     </ScriptNote>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T215837" DateTime="20240126T215832" Id="3" Name="" Range="57696,58419" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T215837" DateTime="20240126T215832" Id="3" Name="" Range="58138,58861" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Minigame 3</Text>
       </Paragraph>
