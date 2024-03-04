@@ -141,7 +141,7 @@
       <Text>. Saoirse catches up with Alora. Both pop their heads out of the water.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 5/8" Page="3" Title="">
+      <SceneProperties Length="1 6/8" Page="3" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -157,7 +157,16 @@
       <Text>Waves bob along the choppy surface, the dense clouds rush along the eerie gray sky like stampeding cattle.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Alora nods excitedly. She gestures to a ship on the horizon.</Text>
+      <Text>Alora nods excitedly. She gestures to a ship on the horizon. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The birch wood ship is wedged between two rock pillars. Intense dark waves slap at its sides. The frame of the boat is bloated and wide. Its trio of masts are each adorned with a faded and ill-maintained royal blue sail accented with shimmering gold frills around the edges. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The ship is ragged- a mixture of time and recent collision have left the ship two bad waves away from total wreckage.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Groups of Sirens ride in on rushing waves. They scale the ship like spiders, their tails thrashing with excitement. </Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Alora</Text>
@@ -200,7 +209,7 @@
       <Text>SPLASH!</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text>SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>(mid jump)</Text>
@@ -212,7 +221,7 @@
       <Text>SPLASH!</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text>SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>(mid jump)</Text>
@@ -224,7 +233,7 @@
       <Text>SPLASH!</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text>SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>(mid jump)</Text>
@@ -237,40 +246,34 @@
 </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The mermaids stop just shy of the boat. They sink down so just their heads bob above the water. The ship is in a panic. Sailors run up to the top deck. They fling bucket-loads of water over the side. They run back down to the lower deck. </Text>
-      <Text AdornmentStyle="-1">Alora</Text>
-      <Text> speaks in a near whisper.</Text>
+      <Text>The mermaids stop just shy of the boat. They sink down so just their heads bob above the water. The ship is in a panic. Sailors run up to the top deck. They fling bucket-loads of water over the side. They run back down to the lower deck. Alora speaks in a near whisper.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">ALORA</Text>
+      <Text>ALORA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Oh I’m sure you have, its been sailing through Storms for months now. Of its own volition, mind you! We got sick and tired of it.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A siren torpedos towards the deck. She snaps at a sailor, catches his foot and plunges back into the sea with the sailor.</Text>
+      <Text>A siren torpedos towards the deck propelled by an incoming wave. She snaps at a sailor, catches his foot and plunges back into the sea with the sailor.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text>SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Maybe they’re sick of you.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Alora</Text>
-      <Text> gasps dramatically. She swings her arms inward in a delicate motion to protect her heart.</Text>
+      <Text>Alora gasps dramatically. She swings her arms inward in a delicate motion to protect her heart.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">AlORA</Text>
+      <Text>AlORA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>I’m a treasure!</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> laughs and shoves her away. </Text>
-      <Text AdornmentStyle="-1">Alora</Text>
-      <Text> smiles.</Text>
+      <Text>Saoirse laughs and shoves her away. Alora smiles.</Text>
     </Paragraph>
     <Paragraph Type="Transition">
       <Text>CUT TO:</Text>
@@ -294,7 +297,7 @@
       <Text>The camera pans downward towards the Captain’s Quarters.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 4/8" Page="5" Title="">
+      <SceneProperties Length="1 5/8" Page="5" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CAPTAIN HARDTACK">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -310,7 +313,7 @@
       <Text>INT. The Whimpering Whale Captain’s quarters</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>CAPTAIN HARDTACK, a large grizzly man in a coat with ten too many medals on it, sits cowering on the floor.</Text>
+      <Text>CAPTAIN HARDTACK, a large grizzly man in a coat with ten too many medals on it, sits cowering on the floor. His coat, once a brilliant blue, is faded and riddled with stains. The floor has collected enough water to push in and out of the fractured hull like a tide-pool.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Captain HARDTACK</Text>
@@ -321,7 +324,7 @@
     <Paragraph Type="Action">
       <Text>He laughs, his eyes wide. The FIRST MATE barrels through the door, dragging </Text>
       <Text AdornmentStyle="-1">LARKINEON</Text>
-      <Text> behind him by her jacket collar. Lark is a young sailor with dark hair slicked back with wax.</Text>
+      <Text> behind him by her jacket collar. Lark is a young sailor with dark hair slicked back with wax. Her face is littered with scars and her jacket is no different. The front of the jacket is marked with a long slash- sewn back together by hand. Lark struggles, her polished boots squeaking and splashing along the floor.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>FIrst mate</Text>
@@ -363,7 +366,7 @@
     <Paragraph Type="Action">
       <Text>Player must </Text>
       <Text Style="Bold">complete a short puzzle</Text>
-      <Text> for either option- Player is presented with three empty slots and a collection of six picture cards. Correct cards must be chosen and placed in appropriate slot.</Text>
+      <Text> for either option- Player is presented with three empty slots on the right side of the screen and a collection of six picture cards. Each picture card shows a monochrome wood carving print of the described action. Gold accents adorn each corner of the cards. Correct cards must be chosen and placed in appropriate chronological slot.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text Style="Bold">Knee Hardtack: </Text>
@@ -420,7 +423,7 @@
       <Text>CUT TO BLACK:</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="6" Title="">
+      <SceneProperties Length="2 3/8" Page="7" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -436,17 +439,11 @@
       <Text>EXT. STORM'S RESPITE SURFACE</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Through </Text>
-      <Text AdornmentStyle="-1">Saoirse’s</Text>
-      <Text> perspective we focus on the First Mate tossing Lark from the ship. </Text>
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> tips her head and focuses her eyes.
+      <Text>Through Saoirse’s perspective we focus on the First Mate tossing Lark from the ship. Saoirse tips her head and focuses her eyes.
 </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The first mate grabs Lark by her leg and arms. She’s hoisted up above the railing with little effort. Lark kicks but doesn’t speak. Her face is glued to the water below her. The first mate speaks. </Text>
-      <Text AdornmentStyle="-1">Saoirse’s</Text>
-      <Text> ears flip forward to focus on the conflict.
+      <Text>The first mate grabs Lark by her leg and arms. She’s hoisted up above the railing with little effort. Lark kicks but doesn’t speak. Her face is glued to the water below her. The first mate speaks. Saoirse’s ears flip forward to focus on the conflict.
 </Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -519,7 +516,7 @@ THE PLAYER must</Text>
       <Text>. </Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text>SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>HELLO.</Text>
@@ -532,13 +529,10 @@ THE PLAYER must</Text>
       <Text>...</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Lark sinks below the surface, unconscious. </Text>
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> gasps. She dives under. She throws a limp Lark over her shoulders. She pops back up to the surface. </Text>
+      <Text>Lark sinks below the surface, unconscious. Saoirse gasps. She dives under. She throws a limp Lark over her shoulders. She pops back up to the surface. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> turns, she powers back the way she came.</Text>
+      <Text>Saoirse turns, she powers back the way she came.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The PLAYER is given control.</Text>
@@ -549,26 +543,19 @@ THE PLAYER must</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1">Alora</Text>
-      <Text> pops up next to </Text>
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text>. </Text>
-      <Text AdornmentStyle="-1">Saoirse</Text>
-      <Text> screams in surprise.</Text>
+      <Text>Alora pops up next to Saoirse. Saoirse screams in surprise.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">ALORA</Text>
+      <Text>ALORA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>You got one! It took me weeks to catch my first Twin...</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>THE PLAYER powers forward. A siren approaches, when pressed, the punch button causes </Text>
-      <Text AdornmentStyle="-1">Alora</Text>
-      <Text> to shove the encroaching siren out of the way.</Text>
+      <Text>THE PLAYER powers forward. A siren approaches, when pressed, the punch button causes Alora to shove the encroaching siren out of the way.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text>SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>‘</Text>
@@ -576,18 +563,16 @@ THE PLAYER must</Text>
       <Text>! This is Lark! </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>THE PLAYER powers forward. A siren approaches, the player can either dive under the siren or once again shove with </Text>
-      <Text AdornmentStyle="-1">Alora</Text>
-      <Text>.</Text>
+      <Text>THE PLAYER powers forward. A siren approaches, the player can either dive under the siren or once again shove with Alora.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">AlORA</Text>
+      <Text>AlORA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>That sailor kid?</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1">SAOIRSE</Text>
+      <Text>SAOIRSE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Yes! Can you believe it!</Text>
@@ -1165,7 +1150,7 @@ THE PLAYER must</Text>
       <Text>Storm Escape</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6 3/8" Page="15" Title="">
+      <SceneProperties Length="6 3/8" Page="16" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1719,7 +1704,7 @@ THE PLAYER must</Text>
       <Text>CUT to:</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="8 4/8" Page="21" Title="">
+      <SceneProperties Length="8 4/8" Page="22" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2436,7 +2421,7 @@ THE PLAYER must</Text>
       <Text>Learning to breathe</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="8" Page="31" Title="">
+      <SceneProperties Length="8" Page="32" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LARK">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3070,7 +3055,7 @@ THE PLAYER must</Text>
       <Text>Cut to:</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 7/8" Page="39" Title="">
+      <SceneProperties Length="1 7/8" Page="40" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LARK">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3230,7 +3215,7 @@ THE PLAYER must</Text>
       <Text>Lark smiles as she goes. She takes the sail in her hand. A thought bubble forms over her head.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="41" Title="">
+      <SceneProperties Length="5/8" Page="42" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text AdornmentStyle="-1">MINIGame</Text>
@@ -3289,7 +3274,7 @@ THE PLAYER must</Text>
       <Text>General DINGY Sailing</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2" Page="42" Title="">
+      <SceneProperties Length="2" Page="43" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3466,7 +3451,7 @@ THE PLAYER must</Text>
       <Text>Dinner on the dingy</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="10 5/8" Page="44" Title="">
+      <SceneProperties Length="10 5/8" Page="45" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4424,7 +4409,7 @@ THE PLAYER must</Text>
       <Text>Lark exhales. She settles back into the chair feeling beaten.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="54" Title="">
+      <SceneProperties Length="5/8" Page="55" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text AdornmentStyle="-1">MINIGame</Text>
@@ -4473,7 +4458,7 @@ THE PLAYER must</Text>
       <Text>The older siren laughs.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5 4/8" Page="55" Title="">
+      <SceneProperties Length="5 4/8" Page="56" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4940,7 +4925,7 @@ THE PLAYER must</Text>
       <Text>General DINGY Sailing</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2" Page="61" Title="">
+      <SceneProperties Length="2" Page="62" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5117,7 +5102,7 @@ THE PLAYER must</Text>
       <Text AdornmentStyle="-1">Night-spiration</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 2/8" Page="63" Title="">
+      <SceneProperties Length="2 2/8" Page="64" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5311,7 +5296,7 @@ THE PLAYER must</Text>
       <Text>CUT TO BLACK.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5" Page="65" Title="">
+      <SceneProperties Length="5" Page="66" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="DAPHNE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5689,7 +5674,7 @@ THE PLAYER must</Text>
       <Text>The night fades to inky black peace.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 2/8" Page="70" Title="">
+      <SceneProperties Length="2 2/8" Page="71" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5886,7 +5871,7 @@ THE PLAYER must</Text>
       <Text>Seal Point. </Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="72" Title="">
+      <SceneProperties Length="2 3/8" Page="73" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6102,7 +6087,7 @@ THE PLAYER must</Text>
       <Text>Glad it’s appreciated.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="74" Title="">
+      <SceneProperties Length="5/8" Page="75" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text AdornmentStyle="-1">MINIGame</Text>
@@ -6162,7 +6147,7 @@ THE PLAYER must</Text>
       <Text>Daytime Duet</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="9 7/8" Page="76" Title="">
+      <SceneProperties Length="9 7/8" Page="77" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6990,7 +6975,7 @@ THE PLAYER must</Text>
       <Text>General Gore Sailing</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 1/8" Page="87" Title="">
+      <SceneProperties Length="2 1/8" Page="88" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7185,7 +7170,7 @@ THE PLAYER must</Text>
       <Text>General Gore combat: Floundering Whale</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 3/8" Page="90" Title="">
+      <SceneProperties Length="4 3/8" Page="91" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7560,7 +7545,7 @@ THE PLAYER must</Text>
       <Text>Rest and Repair</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5" Page="95" Title="">
+      <SceneProperties Length="5" Page="96" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -7994,7 +7979,7 @@ THE PLAYER must</Text>
       <Text>A Breathless Encounter</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="100" Title="">
+      <SceneProperties Length="2 3/8" Page="101" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -8210,7 +8195,7 @@ THE PLAYER must</Text>
       <Text>Lark sighs. She looks up to the stars. She looks down at the crimson water. Lark walks slowly into her Captain’s Quarters and closes the door.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="12 2/8" Page="102" Title="">
+      <SceneProperties Length="12 2/8" Page="103" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ALORA">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -9293,9 +9278,9 @@ THE PLAYER must</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="563" Left="20" Mode="Normal" Top="149" Width="679"/>
+  <WindowState Height="845" Left="20" Mode="Normal" Top="100" Width="1363"/>
 
-  <TextState Scaling="75" Selection="4814,4814" ShowInvisibles="No"/>
+  <TextState Scaling="75" Selection="8729,8729" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -10063,18 +10048,18 @@ THE PLAYER must</Text>
   </Characters>
 
   <ScriptNotes>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T214759" DateTime="20240126T214754" Id="2" Name="" Range="15538,16199" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T214759" DateTime="20240126T214754" Id="2" Name="" Range="16636,17297" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">MiniGame 1</Text>
       </Paragraph>
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
     </ScriptNote>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T210655" DateTime="20240126T210648" Id="1" Name="" Range="43310,43310" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T210655" DateTime="20240126T210648" Id="1" Name="" Range="44408,44408" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Minigame</Text>
       </Paragraph>
     </ScriptNote>
-    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T215837" DateTime="20240126T215832" Id="3" Name="" Range="58805,59528" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20240126T215837" DateTime="20240126T215832" Id="3" Name="" Range="59903,60626" Type="" WriterID="939e7b57-7b25-45c8-abc0-e14d46576544" WriterName="Lubker, Brigitte">
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Minigame 3</Text>
       </Paragraph>
